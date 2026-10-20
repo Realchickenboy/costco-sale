@@ -26,6 +26,7 @@ BRAND={"580714":("https://www.lottefoodmall.com/data/goods/thumb/thumb_G61B6BE07
 st=json.load(open(os.path.join(H,"store_data.json"),encoding="utf-8"))
 for i in st["items"]:
     c=i["code"]
+    if not c: continue  # 상품번호 없는 직접 제보 품목은 사진 없음
     if c in M and M[c]["kind"]=="official": continue
     try: url,purl=official(c)
     except Exception as e: url=purl=None
@@ -45,6 +46,7 @@ for i in st["items"]:
     M[c]=dict(kind="video",src=out) if r.returncode==0 and os.path.exists(out) else dict(kind="none")
 json.dump(M,open(os.path.join(H,"img_map.json"),"w"),ensure_ascii=False,indent=1)
 for i in st["items"]:
+    if not i["code"]: continue
     m=M.get(i["code"],{"kind":"none"})
     if m["kind"]=="official": i["image"]=m["src"]; i["image_src"]=m.get("source","코스트코 공식")+(" · 참고 사진" if m.get("ref") else ""); i["image_url_src"]=m["product_url"]
     elif False and m["kind"]=="video": i["image"]="data:image/jpeg;base64,"+base64.b64encode(open(m["src"],"rb").read()).decode(); i["image_src"]="영상 캡처"

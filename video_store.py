@@ -4,7 +4,7 @@ import csv, json, os, re, datetime
 H=os.path.dirname(os.path.abspath(__file__)); KST=datetime.timezone(datetime.timedelta(hours=9))
 today=datetime.datetime.now(KST).date()
 CATS=[("정육·수산·신선",r"사과|아보카도|레몬|고구마|마늘|루꼴라|카이피라|건가지|명란|장조림|닭 가슴살|버팔로|어묵|크래미|골뱅이|꽁치|번데기|다시마|햄|돈까스"),
-("가공·간편식",r"치킨|순살|피자|우동|쫄면|칼국수|막국수|라면|볶음면|추어탕|설농탕|석박지|청국장|스프|햇반|약밥|흑미밥|쌀|찹|현미|체질|낫또|맥스봉|고구마|육수|치킨스톡|쯔유|올리브|마시멜로|그래놀라|빼빼로|보름달|떡|호두과자|마카다미아|크림치즈|요거트|엔요"),
+("가공·간편식",r"닭갈비|밀키트|치킨|순살|피자|우동|쫄면|칼국수|막국수|라면|볶음면|추어탕|설농탕|석박지|청국장|스프|햇반|약밥|흑미밥|쌀|찹|현미|체질|낫또|맥스봉|고구마|육수|치킨스톡|쯔유|올리브|마시멜로|그래놀라|빼빼로|보름달|떡|호두과자|마카다미아|크림치즈|요거트|엔요"),
 ("음료·커피",r"주스|두유|수염차|소다|스프라이트|라떼|모카|쌍화차|홍삼|전해질|코코컵"),
 ("생활·세제",r"유연제|세탁|세정제|수세미|티슈|타월|호일|필터|버블|로션"),
 ("반려동물",r"츄르|쥬레|애견|비스트로"),("의류·잡화",r"양말|브라|티셔츠|베스트|슬립온|가방"),
@@ -23,6 +23,17 @@ for v in json.load(open(os.path.join(H,"video","videos.json"),encoding="utf-8"))
         items.append(dict(code=r["code"],name=r["name"],category=cat(r["name"]),regular_price=reg,discount=d,sale_price=sale,
           discount_rate=round(d/reg*100,1) if reg and d else None,start=end and r["start"][5:].replace("-","."),end=end and end[5:].replace("-","."),
           source=v["source"],url=f'https://www.youtube.com/watch?v={v["id"]}&t={m*60+s}s',video_time=r["t"],image=None,
+          status="미확인" if r["flag"].strip() else "확인",note=r["flag"].strip() or None))
+# 방문자 직접 확인 제보(video/manual.tsv): 영상 타임스탬프 없음. 종료일이 없으면 확인일(seen)+14일 지나면 제외
+mp=os.path.join(H,"video","manual.tsv")
+if os.path.exists(mp):
+    for r in csv.DictReader(open(mp,encoding="utf-8"),delimiter="\t"):
+        end=r["end"] or None; seen=datetime.date.fromisoformat(r["seen"])
+        if (end and datetime.date.fromisoformat(end)<today) or (not end and (today-seen).days>14): dropped+=1; continue
+        reg,d,sale=n(r["regular"]),n(r["discount"]),n(r["sale"])
+        items.append(dict(code=r["code"],name=r["name"],category=cat(r["name"]),regular_price=reg,discount=d,sale_price=sale,
+          discount_rate=round(d/reg*100,1) if reg and d else None,start=r["start"][5:].replace("-",".") if r["start"] else None,end=end and end[5:].replace("-","."),
+          source=r["source"],url=None,video_time=None,image=None,manual=True,seen=r["seen"],
           status="미확인" if r["flag"].strip() else "확인",note=r["flag"].strip() or None))
 ends=[i["end"] for i in items if i["end"]]
 out=dict(updated=datetime.datetime.now(KST).strftime("%Y-%m-%d %H:%M KST"),count=len(items),dropped_expired=dropped,

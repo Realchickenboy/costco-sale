@@ -12,3 +12,10 @@
    - 숫자는 가격표에 보이는 값만. 흐리거나 가려진 값은 비우고 flag 에 이유를 적으면 '미확인'으로 표시됨.
 4. `video/videos.json` 을 새 영상 하나로 교체(id, tsv, source 문구, url). 예전 tsv는 지워도 됨.
 5. `python3 fetch.py` 실행 후 index.html 확인.
+
+## 방문자 직접 확인 제보 (video/manual.tsv)
+영상에 없는 품목을 매장 가격표를 직접 본 제보로 추가할 때 사용합니다. 탭 구분 열:
+`code name regular discount sale start end seen source flag`
+- 모르는 값은 비워 두고 `flag`에 미확인 내용을 적습니다(→ '미확인' 표시). 상품번호가 없으면 사진은 붙지 않습니다.
+- '영상에서 보기' 버튼은 없고, 기간이 없으면 '기간 미확인'으로 표시됩니다.
+- `end`가 지나면, `end`가 없으면 `seen`(확인일)+14일이 지나면 주간 재빌드에서 자동 제외됩니다.

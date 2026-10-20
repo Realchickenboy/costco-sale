@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-20 15:52 KST",
- "count": 109,
+ "updated": "2026-10-20 16:10 KST",
+ "count": 110,
  "dropped_expired": 0,
  "period": [
   "10.05",
@@ -2054,6 +2054,25 @@
    "note": null,
    "image_src": "코스트코 공식",
    "image_url_src": "https://www.costco.co.kr/Foods/Processed-Food/Instant-Food/CJ-Hetbahn-Cooked-Black-Rice-with-Black-Bean/p/671157"
+  },
+  {
+   "code": "",
+   "name": "닭갈비 밀키트",
+   "category": "가공·간편식",
+   "regular_price": 32870,
+   "discount": 4500,
+   "sale_price": 28370,
+   "discount_rate": 13.7,
+   "start": null,
+   "end": null,
+   "source": "방문자 직접 확인 (10/19 매장 가격표)",
+   "url": null,
+   "video_time": null,
+   "image": null,
+   "manual": true,
+   "seen": "2026-10-19",
+   "status": "미확인",
+   "note": "매장·상품번호·용량·행사기간 미확인"
   }
  ]
 }
