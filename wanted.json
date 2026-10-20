@@ -1,0 +1,2149 @@
+{
+ "schema": "items[name]: mentions, likes, summary_comments, last_mentioned, on_sale_now, matched_code",
+ "runs": [
+  {
+   "at": "2026-10-20 15:12 KST",
+   "video": "qqv3wouHsTk",
+   "comment_count": null,
+   "fetched": 0,
+   "error": "from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies\n"
+  },
+  {
+   "at": "2026-10-20 15:13 KST",
+   "video": "qqv3wouHsTk",
+   "comment_count": 0,
+   "fetched": 0,
+   "error": null
+  },
+  {
+   "at": "2026-10-20 15:13 KST",
+   "video": "qqv3wouHsTk",
+   "comment_count": 0,
+   "fetched": 0,
+   "error": null
+  },
+  {
+   "at": "2026-10-20 15:24 KST",
+   "video": "qqv3wouHsTk",
+   "comment_count": 0,
+   "fetched": 0,
+   "error": null
+  },
+  {
+   "at": "2026-10-20 15:30 KST",
+   "video": "qqv3wouHsTk",
+   "comment_count": 0,
+   "fetched": 0,
+   "error": null
+  },
+  {
+   "at": "2026-10-20 15:36 KST",
+   "video": "qqv3wouHsTk",
+   "comment_count": 0,
+   "fetched": 0,
+   "error": null
+  },
+  {
+   "at": "2026-10-20 15:40 KST",
+   "video": "qqv3wouHsTk",
+   "comment_count": 0,
+   "fetched": 0,
+   "error": null
+  },
+  {
+   "at": "2026-10-20 15:43 KST",
+   "video": "qqv3wouHsTk",
+   "comment_count": 0,
+   "fetched": 0,
+   "error": "from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies\n"
+  },
+  {
+   "at": "2026-10-20 15:52 KST",
+   "video": "qqv3wouHsTk",
+   "comment_count": 0,
+   "fetched": 0,
+   "error": "from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies\n"
+  }
+ ],
+ "items": {},
+ "popular": {
+  "updated": "2026-10-20 15:52 KST",
+  "videos": 50,
+  "recent_videos": 39,
+  "comments": 1971,
+  "video_list": [
+   {
+    "id": "yKtZ2DajWoc",
+    "title": "[추석특집] 과소비 아저씨의 눈 돌아가는 코스트코 쇼핑 (+추천템) | 나의 쓰레기 아저씨 EP.160",
+    "views": 1156878,
+    "date": "20260923",
+    "comments": 60
+   },
+   {
+    "id": "OfXSMD18YpU",
+    "title": "코스트코 고인물의 찐 추천템과 제1회 샵뚱카세 (ft.코스트코 한상차림)",
+    "views": 877317,
+    "date": "20260514",
+    "comments": 60
+   },
+   {
+    "id": "oeim8BjuLjA",
+    "title": "❌ 조리 없이! 10만 원 정도 예산, 코스트코 장 봐서 몇 달 편해지는 소분·냉동 살림법",
+    "views": 841356,
+    "date": "20261008",
+    "comments": 60
+   },
+   {
+    "id": "AI0zO-BxdT8",
+    "title": "1인 가구의 코스트코 털어 재끼기 야호-🛒✨ㅣ소분 꿀팁🍯ㅣ가성비 스테이크🥩ㅣ최애 새우🍤ㅣ바질페스토ㅣ모짜렐라치즈 추천ㅣ미니 크림치즈ㅣ미니 생치즈ㅣ무항생제 달걀🍳ㅣ우동면",
+    "views": 716032,
+    "date": "20260707",
+    "comments": 60
+   },
+   {
+    "id": "iNEvYICLj14",
+    "title": "혼자 사는 10년차의 코스트코 장보기 | 찐 추천템 20가지",
+    "views": 694909,
+    "date": "20260906",
+    "comments": 60
+   },
+   {
+    "id": "c7sJildsdXc",
+    "title": "코스트코 큰손 차예련이 카트 2개 가득 채운 찐 애정템 대공개 (+장보기 꿀팁)",
+    "views": 516901,
+    "date": "20260709",
+    "comments": 60
+   },
+   {
+    "id": "LwrUNfHqu1U",
+    "title": "홍윤화의 코스트코 추천템!!!ㅣ추석 선물 털러 다녀오세요🌕",
+    "views": 492148,
+    "date": "20260920",
+    "comments": 60
+   },
+   {
+    "id": "JHvNKMncUvI",
+    "title": "코스트코 다음 세일 미리 준비하세요! 꿀템 추천&구매 꿀팁까지!",
+    "views": 484866,
+    "date": "20260929",
+    "comments": 38
+   },
+   {
+    "id": "4Z9xtzJb6wk",
+    "title": "입고되자마자 달려가도 딸랑 1개만 받을 수 있어 미쳐버리겠다는 코스트코 추천템 10가지",
+    "views": 309123,
+    "date": "20260701",
+    "comments": 19
+   },
+   {
+    "id": "XCidP9tf39c",
+    "title": "[추석특집] 코스트코 우리집 최애 상품 30분 몰아보기",
+    "views": 196319,
+    "date": "20260924",
+    "comments": 46
+   },
+   {
+    "id": "loTxJa5X__c",
+    "title": "🚨요즘 현지인들 카트마다 무조건 담는다는 그거! 면역력 필수템부터 놓치면 아까운 가성비 대박 신상까지! #costco #쿡씨코스트코 #코스트코추천 #닥터포헤어샴푸 #쿡씨추천",
+    "views": 189247,
+    "date": "20260929",
+    "comments": 60
+   },
+   {
+    "id": "5HoH2gPjRvo",
+    "title": "모두가 인정할 수 밖에 없는 제품만 골라왔습니다!",
+    "views": 162413,
+    "date": "20260527",
+    "comments": 60
+   },
+   {
+    "id": "2JzVaEUAel0",
+    "title": "🌈코스트코 9월 시작! 쏟아지는 대박 할인! 추석 준비! 가을겨울 준비! 끝~끝",
+    "views": 148182,
+    "date": "20260901",
+    "comments": 33
+   },
+   {
+    "id": "Svk3p8K3XOA",
+    "title": "1인 가구 코스트코 추천템 23가지 | 이렇게 소분하면 진짜 이득입니다",
+    "views": 144592,
+    "date": "20260628",
+    "comments": 60
+   },
+   {
+    "id": "5W67tJxBjQc",
+    "title": "🌈코스트코 딱 지금! 대박할인 터지는 명절 전야 할인 시작! 자- 어서 구경하러 들어오시죠-",
+    "views": 137240,
+    "date": "20260908",
+    "comments": 23
+   },
+   {
+    "id": "-sA6S2o7FKQ",
+    "title": "NO소분/2인가구 최적 코스트코 추천템 2탄!",
+    "views": 131995,
+    "date": "20260503",
+    "comments": 34
+   },
+   {
+    "id": "MfjvY1aQDLY",
+    "title": "귀신같이 연휴가 끝나자 반값 가격으로 풀어버린 '떨이' 코스트코 추천템 10가지",
+    "views": 124909,
+    "date": "20260927",
+    "comments": 8
+   },
+   {
+    "id": "sETzf_TxYm0",
+    "title": "🌈코스트코 명절 전 할인이 계속 늘어나는 중- 품절에 신상에 할인에- 늦으면 없어요~~~",
+    "views": 122766,
+    "date": "20260915",
+    "comments": 38
+   },
+   {
+    "id": "QPAUrNHEP8A",
+    "title": "현지에서도 이미 구매 제한 걸리는 바람에 업자들이 싹쓸이해간 신상 코스트코 추천템 Top10",
+    "views": 120149,
+    "date": "20260426",
+    "comments": 2
+   },
+   {
+    "id": "9kxDzHUwcXM",
+    "title": "🛒코스트코에서 1인가구가 진짜 먹어보고 재구매하는 것들!!!",
+    "views": 104955,
+    "date": "20260822",
+    "comments": 22
+   },
+   {
+    "id": "WHg1Fqfq-z8",
+    "title": "🌈코스트코 뉴시즌! 알짜배기들 할인 시작! 그동안 할인 안하던 것들이 할인하면 가야해요? 말아야해요?",
+    "views": 103113,
+    "date": "20260929",
+    "comments": 30
+   },
+   {
+    "id": "2v9c1KikBPY",
+    "title": "코스트코 고인물 찐 추천템 8",
+    "views": 98504,
+    "date": "20261016",
+    "comments": 60
+   },
+   {
+    "id": "R2NtjMobYE4",
+    "title": "🌈코스트코  주말! 전지점 영업! 이번 주말까지만 딱! 할인! 안갈건데 보시면 가게되는... 코코덕 할인브리핑",
+    "views": 96940,
+    "date": "20260904",
+    "comments": 28
+   },
+   {
+    "id": "BDVwHwUZxA0",
+    "title": "1인 가구의 20만원컷 코스트코 장보기 🛒 | 유지어터 식단 추천템🔥 | 식재료 활용 레시피",
+    "views": 89190,
+    "date": "20260902",
+    "comments": 26
+   },
+   {
+    "id": "qtzRas6mSzk",
+    "title": "코스트코 초보 필수 시청👀 장보기부터 냉동 소분까지 한 번에",
+    "views": 83720,
+    "date": "20260808",
+    "comments": 37
+   },
+   {
+    "id": "-wTs-rXniII",
+    "title": "안 살거면 회원 탈퇴하는게 차라리 이득이라는 '멤버십 본전 회수' 코스트코 추천템 10가지",
+    "views": 83207,
+    "date": "20261005",
+    "comments": 12
+   },
+   {
+    "id": "qdC7VUPNE8s",
+    "title": "🌈코스트코 10월 시작!! 연휴에만 할인이라면- 가봐야죠 뭐....  추워졌으니 일단 영상 부터보시고-",
+    "views": 83154,
+    "date": "20261002",
+    "comments": 22
+   },
+   {
+    "id": "bI53sLGagOY",
+    "title": "🔥 코스트코 9월 세일, 이건 진짜 잘 샀다! 꼭 챙겨야 할 추천템 / 갈빗살 맛있게 자르는 쉬운 방법",
+    "views": 82246,
+    "date": "20260828",
+    "comments": 60
+   },
+   {
+    "id": "phwQMNSCj-E",
+    "title": "🌈코스트코 연휴 끝났지만 할인은 끝나지 않지. 오늘도 30분이 넘어버린 영상이면- 일단 들어와서 보고가세요~",
+    "views": 80231,
+    "date": "20261013",
+    "comments": 30
+   },
+   {
+    "id": "kqoc1R1RRs0",
+    "title": "블랙프라이데이가 시작되기도 전에 미리 세일가 내놓은 코스트코 할인상품 추천템 10가지",
+    "views": 79456,
+    "date": "20261004",
+    "comments": 5
+   },
+   {
+    "id": "_BYQ2WcJ9s4",
+    "title": "온라인보다 싼 코스트코 가성비짱 인기 주방용품 & 냄비 17종 추천템",
+    "views": 78802,
+    "date": "20260521",
+    "comments": 6
+   },
+   {
+    "id": "fKgbaTkj1Lc",
+    "title": "코스트코 장보기 할 때 뒷면 '이 숫자' 꼭 확인하세요. 무조건 걸러야 할 것과 사도 되는 코스트코 추천템 구별하는 꿀팁",
+    "views": 73100,
+    "date": "20261009",
+    "comments": 9
+   },
+   {
+    "id": "vNYa9NIKBGw",
+    "title": "코스트코 18년차 고인물의 찐 추천템과 신상품 몰아보기",
+    "views": 70548,
+    "date": "20260802",
+    "comments": 8
+   },
+   {
+    "id": "t_TeYWDJkG8",
+    "title": "🌈코스트코 이번 주말도 쉴 수 없는 이유!  또 핫하게 주말만!",
+    "views": 70365,
+    "date": "20261016",
+    "comments": 31
+   },
+   {
+    "id": "BrI58TOpdXw",
+    "title": "코스트코 미리미리 살펴보는 세일상품!!  9월 14일(월)~",
+    "views": 69648,
+    "date": "20260913",
+    "comments": 1
+   },
+   {
+    "id": "WAk3sGqZ_fw",
+    "title": "2인 가구도 가능한 코스트코 찐 추천템 10가지 | 살림초보도 가능한 쉬운 소분법, 신박한 소분꿀템",
+    "views": 69497,
+    "date": "20260519",
+    "comments": 40
+   },
+   {
+    "id": "88wZzLk69Lw",
+    "title": "조만간 1인 2개 제한 걸린다고 입소문나고 있는 '긴급 품절 위기' 코스트코 추천템 10가지",
+    "views": 67952,
+    "date": "20260830",
+    "comments": 1
+   },
+   {
+    "id": "T_98rKbLUvM",
+    "title": "[코스트코 세일정보] 10/12(월)😎유리아주 립밤, 아롱사태, 하인즈 식초, 감자탕, 절단 꽃게 등",
+    "views": 67659,
+    "date": "20261012",
+    "comments": 27
+   },
+   {
+    "id": "WpS5qCXlD10",
+    "title": "결국 퇴사한 직원이 몰래 밝힌 '마진 0원' 코스트코 추천템 10가지를 공개합니다.",
+    "views": 65426,
+    "date": "20260803",
+    "comments": 15
+   },
+   {
+    "id": "LDm_XWLq4x8",
+    "title": "[ENG SUB]강주은 PICK 코스트코에서 무조건 사야하는 찐 애정템(+보관법,레시피)",
+    "views": 2603140,
+    "date": "20241218",
+    "comments": 60
+   },
+   {
+    "id": "rAFZ0DfzZZg",
+    "title": "50만원 박살내는 코스트코 털이",
+    "views": 1060311,
+    "date": "20230422",
+    "comments": 60
+   },
+   {
+    "id": "J6B0TYLDc5A",
+    "title": "21년차 코스트코 고인물 브라이언이 무조건 사오는 필수템 최초공개 | ENG",
+    "views": 983760,
+    "date": "20260324",
+    "comments": 60
+   },
+   {
+    "id": "ImqTxPl9Yuw",
+    "title": "❌광고❌ 품절될까봐 20개나 쟁여둔 강주은의 코스트코 찐템 대공개🔥",
+    "views": 961434,
+    "date": "20251210",
+    "comments": 60
+   },
+   {
+    "id": "E6sxUm9kB6I",
+    "title": "자취생, 주부 필수 시청! 코스트코 강력추천템+모르면 손해보는 초간단 소분법 공개",
+    "views": 951340,
+    "date": "20251105",
+    "comments": 60
+   },
+   {
+    "id": "XefWOSt-3xQ",
+    "title": "코스트코 스테디셀러&NEW추천템 30가지 몰아보기 | 20년차 코스트코 회원의 핵심만 쏙쏙 골라 담은 쪽집게 영상 | 소분법, 활용법 포함",
+    "views": 944546,
+    "date": "20240310",
+    "comments": 60
+   },
+   {
+    "id": "3Q7l3T3P4hA",
+    "title": "살림초보도 가능! N번째 구매하는 코스트코 꿀템 소분법ㅣ코스트코 치즈ㅣ고기 추천과 활용법ㅣ최애 과자ㅣ 아롱사태",
+    "views": 859966,
+    "date": "20260228",
+    "comments": 60
+   },
+   {
+    "id": "StuHj98gdC4",
+    "title": "진짜 괜찮은 코스트코 추천 상품들! 10년째 끊임없이 팔린다는 코스트코에서 사야할것 코스트코 빵, 커클랜드. #costcohaul",
+    "views": 840333,
+    "date": "20230316",
+    "comments": 60
+   },
+   {
+    "id": "7-akIR2Yzvk",
+    "title": "코스트코 고인물 최화정이 몇년째 꼭 사는 초가성비 꿀템 Top10 (+연말파티 음식)",
+    "views": 795889,
+    "date": "20251225",
+    "comments": 60
+   },
+   {
+    "id": "vpz61unESEU",
+    "title": "코스트코 스테디셀러 & 33가지 추천템 | 연회비 뽑는 시그니처 입문템 | 소분법 제품 활용법 및 꿀팁",
+    "views": 785768,
+    "date": "20240322",
+    "comments": 60
+   },
+   {
+    "id": "qjrn8szuGSI",
+    "title": "코스트코 40만 원 쇼핑 목록! 신상템, 재구매템까지",
+    "views": 675396,
+    "date": "20250523",
+    "comments": 60
+   }
+  ],
+  "items": [
+   {
+    "item": "치즈",
+    "video_mentions": 12,
+    "comment_mentions": 59,
+    "comment_likes": 489,
+    "evidence": [
+     {
+      "title": "❌ 조리 없이! 10만 원 정도 예산, 코스트코 장 봐서 몇 달 편해지는 소분·냉동 살림법",
+      "url": "https://youtu.be/oeim8BjuLjA",
+      "views": 841356,
+      "date": "20261008"
+     },
+     {
+      "title": "1인 가구의 코스트코 털어 재끼기 야호-🛒✨ㅣ소분 꿀팁🍯ㅣ가성비 스테이크🥩ㅣ최애 새우🍤ㅣ바질페스토ㅣ모짜렐라치즈 추천ㅣ미니 크림치즈ㅣ미니 생치즈ㅣ무항생제 달걀🍳ㅣ우동면",
+      "url": "https://youtu.be/AI0zO-BxdT8",
+      "views": 716032,
+      "date": "20260707"
+     }
+    ],
+    "usage": "벽돌 모짜렐라는 샌드위치용 슬라이스·간식용 큐브로 잘라 냉동 소분 (영상 설명 타임라인)",
+    "on_sale_now": true,
+    "sale_items": [
+     {
+      "code": "695647",
+      "name": "카스텔로 휩트크림치즈 오리지널&갈릭 125G X 4",
+      "sale_price": 11990,
+      "discount": 3000,
+      "end": "10.25"
+     }
+    ],
+    "origin_items": [
+     {
+      "code": "695647",
+      "name": "카스텔로 휩트크림치즈 오리지널&갈릭 125G X 4",
+      "origin": "미확인",
+      "evidence": null
+     }
+    ],
+    "domestic": false,
+    "last_mentioned": "20261008"
+   },
+   {
+    "item": "계란",
+    "video_mentions": 5,
+    "comment_mentions": 19,
+    "comment_likes": 373,
+    "evidence": [
+     {
+      "title": "1인 가구의 코스트코 털어 재끼기 야호-🛒✨ㅣ소분 꿀팁🍯ㅣ가성비 스테이크🥩ㅣ최애 새우🍤ㅣ바질페스토ㅣ모짜렐라치즈 추천ㅣ미니 크림치즈ㅣ미니 생치즈ㅣ무항생제 달걀🍳ㅣ우동면",
+      "url": "https://youtu.be/AI0zO-BxdT8",
+      "views": 716032,
+      "date": "20260707"
+     },
+     {
+      "title": "혼자 사는 10년차의 코스트코 장보기 | 찐 추천템 20가지",
+      "url": "https://youtu.be/iNEvYICLj14",
+      "views": 694909,
+      "date": "20260906"
+     }
+    ],
+    "usage": "뾰족한 쪽이 아래로 가게 보관하라는 댓글이 여러 개, 판째 넣는 계란 정리함 추천 (댓글)",
+    "on_sale_now": false,
+    "sale_items": [],
+    "origin_items": [],
+    "domestic": false,
+    "last_mentioned": "20260906"
+   },
+   {
+    "item": "새우",
+    "video_mentions": 4,
+    "comment_mentions": 20,
+    "comment_likes": 121,
+    "evidence": [
+     {
+      "title": "1인 가구의 코스트코 털어 재끼기 야호-🛒✨ㅣ소분 꿀팁🍯ㅣ가성비 스테이크🥩ㅣ최애 새우🍤ㅣ바질페스토ㅣ모짜렐라치즈 추천ㅣ미니 크림치즈ㅣ미니 생치즈ㅣ무항생제 달걀🍳ㅣ우동면",
+      "url": "https://youtu.be/AI0zO-BxdT8",
+      "views": 716032,
+      "date": "20260707"
+     },
+     {
+      "title": "1인 가구의 20만원컷 코스트코 장보기 🛒 | 유지어터 식단 추천템🔥 | 식재료 활용 레시피",
+      "url": "https://youtu.be/BDVwHwUZxA0",
+      "views": 89190,
+      "date": "20260902"
+     }
+    ],
+    "usage": "냉동 새우는 파스타 토핑·새우장에 활용. 단 생으로 양념장 담그면 위험하다는 댓글도 있음 (댓글)",
+    "on_sale_now": false,
+    "sale_items": [],
+    "origin_items": [],
+    "domestic": false,
+    "last_mentioned": "20260902"
+   },
+   {
+    "item": "피자",
+    "video_mentions": 4,
+    "comment_mentions": 18,
+    "comment_likes": 818,
+    "evidence": [
+     {
+      "title": "❌ 조리 없이! 10만 원 정도 예산, 코스트코 장 봐서 몇 달 편해지는 소분·냉동 살림법",
+      "url": "https://youtu.be/oeim8BjuLjA",
+      "views": 841356,
+      "date": "20261008"
+     },
+     {
+      "title": "21년차 코스트코 고인물 브라이언이 무조건 사오는 필수템 최초공개 | ENG",
+      "url": "https://youtu.be/J6B0TYLDc5A",
+      "views": 983760,
+      "date": "20260324"
+     }
+    ],
+    "usage": "도우를 냉장 숙성 후 에어프라이어로 굽는 법 소개 (영상 설명)",
+    "on_sale_now": true,
+    "sale_items": [
+     {
+      "code": "663486",
+      "name": "리스토란테 모짜렐라 피자 2,130G (355G X 6)",
+      "sale_price": 26990,
+      "discount": 3000,
+      "end": "10.25"
+     }
+    ],
+    "origin_items": [
+     {
+      "code": "663486",
+      "name": "리스토란테 모짜렐라 피자 2,130G (355G X 6)",
+      "origin": "미확인",
+      "evidence": null
+     }
+    ],
+    "domestic": false,
+    "last_mentioned": "20261008"
+   },
+   {
+    "item": "버터",
+    "video_mentions": 6,
+    "comment_mentions": 12,
+    "comment_likes": 187,
+    "evidence": [
+     {
+      "title": "🛒코스트코에서 1인가구가 진짜 먹어보고 재구매하는 것들!!!",
+      "url": "https://youtu.be/9kxDzHUwcXM",
+      "views": 104955,
+      "date": "20260822"
+     },
+     {
+      "title": "1인 가구의 20만원컷 코스트코 장보기 🛒 | 유지어터 식단 추천템🔥 | 식재료 활용 레시피",
+      "url": "https://youtu.be/BDVwHwUZxA0",
+      "views": 89190,
+      "date": "20260902"
+     }
+    ],
+    "usage": "버터 소분틀로 잘라 빵·치즈와 함께 소분 보관 (영상 설명·댓글)",
+    "on_sale_now": true,
+    "sale_items": [
+     {
+      "code": "683121",
+      "name": "앵커FP 무염버터 454G X 4",
+      "sale_price": 23990,
+      "discount": 6000,
+      "end": "10.25"
+     }
+    ],
+    "origin_items": [
+     {
+      "code": "683121",
+      "name": "앵커FP 무염버터 454G X 4",
+      "origin": "미확인",
+      "evidence": null
+     }
+    ],
+    "domestic": false,
+    "last_mentioned": "20260902"
+   },
+   {
+    "item": "냄비/프라이팬",
+    "video_mentions": 5,
+    "comment_mentions": 11,
+    "comment_likes": 156,
+    "evidence": [
+     {
+      "title": "❌ 조리 없이! 10만 원 정도 예산, 코스트코 장 봐서 몇 달 편해지는 소분·냉동 살림법",
+      "url": "https://youtu.be/oeim8BjuLjA",
+      "views": 841356,
+      "date": "20261008"
+     },
+     {
+      "title": "1인 가구의 코스트코 털어 재끼기 야호-🛒✨ㅣ소분 꿀팁🍯ㅣ가성비 스테이크🥩ㅣ최애 새우🍤ㅣ바질페스토ㅣ모짜렐라치즈 추천ㅣ미니 크림치즈ㅣ미니 생치즈ㅣ무항생제 달걀🍳ㅣ우동면",
+      "url": "https://youtu.be/AI0zO-BxdT8",
+      "views": 716032,
+      "date": "20260707"
+     }
+    ],
+    "usage": "영상·댓글에서 활용법 미확인",
+    "on_sale_now": false,
+    "sale_items": [],
+    "origin_items": [],
+    "domestic": false,
+    "last_mentioned": "20261008"
+   },
+   {
+    "item": "아보카도",
+    "video_mentions": 5,
+    "comment_mentions": 10,
+    "comment_likes": 197,
+    "evidence": [
+     {
+      "title": "1인 가구의 20만원컷 코스트코 장보기 🛒 | 유지어터 식단 추천템🔥 | 식재료 활용 레시피",
+      "url": "https://youtu.be/BDVwHwUZxA0",
+      "views": 89190,
+      "date": "20260902"
+     },
+     {
+      "title": "🔥 코스트코 9월 세일, 이건 진짜 잘 샀다! 꼭 챙겨야 할 추천템 / 갈빗살 맛있게 자르는 쉬운 방법",
+      "url": "https://youtu.be/bI53sLGagOY",
+      "views": 82246,
+      "date": "20260828"
+     }
+    ],
+    "usage": "영상·댓글에서 활용법 미확인",
+    "on_sale_now": true,
+    "sale_items": [
+     {
+      "code": "605698",
+      "name": "아보카도 6개 (페루)",
+      "sale_price": 9590,
+      "discount": 2400,
+      "end": "10.25"
+     }
+    ],
+    "origin_items": [
+     {
+      "code": "605698",
+      "name": "아보카도 6개 (페루)",
+      "origin": "수입",
+      "evidence": "매장 가격표 원산지: 페루"
+     }
+    ],
+    "domestic": false,
+    "last_mentioned": "20260902"
+   },
+   {
+    "item": "김치",
+    "video_mentions": 3,
+    "comment_mentions": 10,
+    "comment_likes": 14,
+    "evidence": [
+     {
+      "title": "❌ 조리 없이! 10만 원 정도 예산, 코스트코 장 봐서 몇 달 편해지는 소분·냉동 살림법",
+      "url": "https://youtu.be/oeim8BjuLjA",
+      "views": 841356,
+      "date": "20261008"
+     },
+     {
+      "title": "혼자 사는 10년차의 코스트코 장보기 | 찐 추천템 20가지",
+      "url": "https://youtu.be/iNEvYICLj14",
+      "views": 694909,
+      "date": "20260906"
+     }
+    ],
+    "usage": "남은 고기와 함께 냉동 김치찜 밀키트로 만들어 두기 (영상 설명)",
+    "on_sale_now": true,
+    "sale_items": [
+     {
+      "code": "693154",
+      "name": "아워홈 갓석박지 1.5KG",
+      "sale_price": 11990,
+      "discount": 3000,
+      "end": "10.25"
+     }
+    ],
+    "origin_items": [
+     {
+      "code": "693154",
+      "name": "아워홈 갓석박지 1.5KG",
+      "origin": "미확인",
+      "evidence": null
+     }
+    ],
+    "domestic": false,
+    "last_mentioned": "20261008"
+   },
+   {
+    "item": "딸기",
+    "video_mentions": 4,
+    "comment_mentions": 6,
+    "comment_likes": 39,
+    "evidence": [
+     {
+      "title": "1인 가구의 코스트코 털어 재끼기 야호-🛒✨ㅣ소분 꿀팁🍯ㅣ가성비 스테이크🥩ㅣ최애 새우🍤ㅣ바질페스토ㅣ모짜렐라치즈 추천ㅣ미니 크림치즈ㅣ미니 생치즈ㅣ무항생제 달걀🍳ㅣ우동면",
+      "url": "https://youtu.be/AI0zO-BxdT8",
+      "views": 716032,
+      "date": "20260707"
+     },
+     {
+      "title": "코스트코 고인물 찐 추천템 8",
+      "url": "https://youtu.be/2v9c1KikBPY",
+      "views": 98504,
+      "date": "20261016"
+     }
+    ],
+    "usage": "영상·댓글에서 활용법 미확인",
+    "on_sale_now": false,
+    "sale_items": [],
+    "origin_items": [],
+    "domestic": false,
+    "last_mentioned": "20261016"
+   },
+   {
+    "item": "세제",
+    "video_mentions": 5,
+    "comment_mentions": 3,
+    "comment_likes": 7,
+    "evidence": [
+     {
+      "title": "🌈코스트코 명절 전 할인이 계속 늘어나는 중- 품절에 신상에 할인에- 늦으면 없어요~~~",
+      "url": "https://youtu.be/sETzf_TxYm0",
+      "views": 122766,
+      "date": "20260915"
+     },
+     {
+      "title": "🌈코스트코  주말! 전지점 영업! 이번 주말까지만 딱! 할인! 안갈건데 보시면 가게되는... 코코덕 할인브리핑",
+      "url": "https://youtu.be/R2NtjMobYE4",
+      "views": 96940,
+      "date": "20260904"
+     }
+    ],
+    "usage": "영상·댓글에서 활용법 미확인",
+    "on_sale_now": true,
+    "sale_items": [
+     {
+      "code": "614105",
+      "name": "퍼실 어드밴스드젤세탁세제 4.0L",
+      "sale_price": 22790,
+      "discount": 6200,
+      "end": "10.25"
+     }
+    ],
+    "origin_items": [
+     {
+      "code": "614105",
+      "name": "퍼실 어드밴스드젤세탁세제 4.0L",
+      "origin": "미확인",
+      "evidence": null
+     }
+    ],
+    "domestic": false,
+    "last_mentioned": "20261013"
+   },
+   {
+    "item": "샐러드",
+    "video_mentions": 1,
+    "comment_mentions": 14,
+    "comment_likes": 37,
+    "evidence": [
+     {
+      "title": "1인 가구의 20만원컷 코스트코 장보기 🛒 | 유지어터 식단 추천템🔥 | 식재료 활용 레시피",
+      "url": "https://youtu.be/BDVwHwUZxA0",
+      "views": 89190,
+      "date": "20260902"
+     }
+    ],
+    "usage": "남은 채소는 샐러드로, 샐러드 토퍼는 소분 보관 (영상 설명·댓글)",
+    "on_sale_now": false,
+    "sale_items": [],
+    "origin_items": [],
+    "domestic": false,
+    "last_mentioned": "20260902"
+   },
+   {
+    "item": "그릭요거트",
+    "video_mentions": 2,
+    "comment_mentions": 10,
+    "comment_likes": 171,
+    "evidence": [
+     {
+      "title": "1인 가구의 20만원컷 코스트코 장보기 🛒 | 유지어터 식단 추천템🔥 | 식재료 활용 레시피",
+      "url": "https://youtu.be/BDVwHwUZxA0",
+      "views": 89190,
+      "date": "20260902"
+     },
+     {
+      "title": "🔥 코스트코 9월 세일, 이건 진짜 잘 샀다! 꼭 챙겨야 할 추천템 / 갈빗살 맛있게 자르는 쉬운 방법",
+      "url": "https://youtu.be/bI53sLGagOY",
+      "views": 82246,
+      "date": "20260828"
+     }
+    ],
+    "usage": "꿀·바질·토마토 조합, 요거트 바크 레시피로 활용 (댓글·영상 설명)",
+    "on_sale_now": true,
+    "sale_items": [
+     {
+      "code": "689580",
+      "name": "매일 무지방 그릭요거트 907G X 2 (플레인)",
+      "sale_price": 10990,
+      "discount": 2000,
+      "end": "10.25"
+     }
+    ],
+    "origin_items": [
+     {
+      "code": "689580",
+      "name": "매일 무지방 그릭요거트 907G X 2 (플레인)",
+      "origin": "미확인",
+      "evidence": null
+     }
+    ],
+    "domestic": false,
+    "last_mentioned": "20260902"
+   },
+   {
+    "item": "부채살",
+    "video_mentions": 2,
+    "comment_mentions": 9,
+    "comment_likes": 159,
+    "evidence": [
+     {
+      "title": "1인 가구의 코스트코 털어 재끼기 야호-🛒✨ㅣ소분 꿀팁🍯ㅣ가성비 스테이크🥩ㅣ최애 새우🍤ㅣ바질페스토ㅣ모짜렐라치즈 추천ㅣ미니 크림치즈ㅣ미니 생치즈ㅣ무항생제 달걀🍳ㅣ우동면",
+      "url": "https://youtu.be/AI0zO-BxdT8",
+      "views": 716032,
+      "date": "20260707"
+     },
+     {
+      "title": "살림초보도 가능! N번째 구매하는 코스트코 꿀템 소분법ㅣ코스트코 치즈ㅣ고기 추천과 활용법ㅣ최애 과자ㅣ 아롱사태",
+      "url": "https://youtu.be/3Q7l3T3P4hA",
+      "views": 859966,
+      "date": "20260228"
+     }
+    ],
+    "usage": "손질해 스테이크용으로 소분해 두면 먹기 편함 (영상 설명·댓글)",
+    "on_sale_now": false,
+    "sale_items": [],
+    "origin_items": [],
+    "domestic": false,
+    "last_mentioned": "20260707"
+   },
+   {
+    "item": "소불고기",
+    "video_mentions": 3,
+    "comment_mentions": 5,
+    "comment_likes": 108,
+    "evidence": [
+     {
+      "title": "❌ 조리 없이! 10만 원 정도 예산, 코스트코 장 봐서 몇 달 편해지는 소분·냉동 살림법",
+      "url": "https://youtu.be/oeim8BjuLjA",
+      "views": 841356,
+      "date": "20261008"
+     },
+     {
+      "title": "[ENG SUB]강주은 PICK 코스트코에서 무조건 사야하는 찐 애정템(+보관법,레시피)",
+      "url": "https://youtu.be/LDm_XWLq4x8",
+      "views": 2603140,
+      "date": "20241218"
+     }
+    ],
+    "usage": "덮밥·파스타로 활용, 소분해 보관 (댓글)",
+    "on_sale_now": false,
+    "sale_items": [],
+    "origin_items": [],
+    "domestic": false,
+    "last_mentioned": "20261008"
+   },
+   {
+    "item": "연어",
+    "video_mentions": 2,
+    "comment_mentions": 7,
+    "comment_likes": 68,
+    "evidence": [
+     {
+      "title": "[ENG SUB]강주은 PICK 코스트코에서 무조건 사야하는 찐 애정템(+보관법,레시피)",
+      "url": "https://youtu.be/LDm_XWLq4x8",
+      "views": 2603140,
+      "date": "20241218"
+     },
+     {
+      "title": "코스트코 스테디셀러 & 33가지 추천템 | 연회비 뽑는 시그니처 입문템 | 소분법 제품 활용법 및 꿀팁",
+      "url": "https://youtu.be/vpz61unESEU",
+      "views": 785768,
+      "date": "20240322"
+     }
+    ],
+    "usage": "대용량은 받자마자 소분 (영상 설명)",
+    "on_sale_now": false,
+    "sale_items": [],
+    "origin_items": [],
+    "domestic": false,
+    "last_mentioned": "20241218"
+   },
+   {
+    "item": "블루베리",
+    "video_mentions": 2,
+    "comment_mentions": 6,
+    "comment_likes": 144,
+    "evidence": [
+     {
+      "title": "🛒코스트코에서 1인가구가 진짜 먹어보고 재구매하는 것들!!!",
+      "url": "https://youtu.be/9kxDzHUwcXM",
+      "views": 104955,
+      "date": "20260822"
+     },
+     {
+      "title": "코스트코 고인물 찐 추천템 8",
+      "url": "https://youtu.be/2v9c1KikBPY",
+      "views": 98504,
+      "date": "20261016"
+     }
+    ],
+    "usage": "영상·댓글에서 활용법 미확인",
+    "on_sale_now": false,
+    "sale_items": [],
+    "origin_items": [],
+    "domestic": false,
+    "last_mentioned": "20261016"
+   },
+   {
+    "item": "올리브오일",
+    "video_mentions": 2,
+    "comment_mentions": 6,
+    "comment_likes": 83,
+    "evidence": [
+     {
+      "title": "❌ 조리 없이! 10만 원 정도 예산, 코스트코 장 봐서 몇 달 편해지는 소분·냉동 살림법",
+      "url": "https://youtu.be/oeim8BjuLjA",
+      "views": 841356,
+      "date": "20261008"
+     },
+     {
+      "title": "혼자 사는 10년차의 코스트코 장보기 | 찐 추천템 20가지",
+      "url": "https://youtu.be/iNEvYICLj14",
+      "views": 694909,
+      "date": "20260906"
+     }
+    ],
+    "usage": "치즈·바질 샌드위치에 곁들여 냉동 보관 (영상 설명)",
+    "on_sale_now": true,
+    "sale_items": [
+     {
+      "code": "684084",
+      "name": "TERRA DELYSSA 엑스트라버진올리브유 1L X 2",
+      "sale_price": 21990,
+      "discount": 3000,
+      "end": "10.25"
+     },
+     {
+      "code": "687042",
+      "name": "뉴트리원 유기농엑스트라버진 올리브유 12ML X 60",
+      "sale_price": 18790,
+      "discount": 3200,
+      "end": "10.25"
+     }
+    ],
+    "origin_items": [
+     {
+      "code": "684084",
+      "name": "TERRA DELYSSA 엑스트라버진올리브유 1L X 2",
+      "origin": "수입",
+      "evidence": "수입신고: 수입식품안전관리특별법에 따른 수입신고를 필함"
+     },
+     {
+      "code": "687042",
+      "name": "뉴트리원 유기농엑스트라버진 올리브유 12ML X 60",
+      "origin": "미확인",
+      "evidence": null
+     }
+    ],
+    "domestic": false,
+    "last_mentioned": "20261008"
+   },
+   {
+    "item": "꿀",
+    "video_mentions": 2,
+    "comment_mentions": 6,
+    "comment_likes": 30,
+    "evidence": [
+     {
+      "title": "❌ 조리 없이! 10만 원 정도 예산, 코스트코 장 봐서 몇 달 편해지는 소분·냉동 살림법",
+      "url": "https://youtu.be/oeim8BjuLjA",
+      "views": 841356,
+      "date": "20261008"
+     },
+     {
+      "title": "🚨요즘 현지인들 카트마다 무조건 담는다는 그거! 면역력 필수템부터 놓치면 아까운 가성비 대박 신상까지! #costco #쿡씨코스트코 #코스트코추천 #닥터포헤어샴푸 #쿡씨추천",
+      "url": "https://youtu.be/loTxJa5X__c",
+      "views": 189247,
+      "date": "20260929"
+     }
+    ],
+    "usage": "그릭요거트에 곁들임 (댓글)",
+    "on_sale_now": false,
+    "sale_items": [],
+    "origin_items": [],
+    "domestic": false,
+    "last_mentioned": "20261008"
+   },
+   {
+    "item": "키친타월",
+    "video_mentions": 1,
+    "comment_mentions": 9,
+    "comment_likes": 349,
+    "evidence": [
+     {
+      "title": "코스트코 스테디셀러 & 33가지 추천템 | 연회비 뽑는 시그니처 입문템 | 소분법 제품 활용법 및 꿀팁",
+      "url": "https://youtu.be/vpz61unESEU",
+      "views": 785768,
+      "date": "20240322"
+     }
+    ],
+    "usage": "낱개 포장이라 보관이 편하다는 댓글 (댓글)",
+    "on_sale_now": false,
+    "sale_items": [],
+    "origin_items": [],
+    "domestic": false,
+    "last_mentioned": "20240322"
+   },
+   {
+    "item": "떡볶이·떡",
+    "video_mentions": 2,
+    "comment_mentions": 5,
+    "comment_likes": 8,
+    "evidence": [
+     {
+      "title": "NO소분/2인가구 최적 코스트코 추천템 2탄!",
+      "url": "https://youtu.be/-sA6S2o7FKQ",
+      "views": 131995,
+      "date": "20260503"
+     },
+     {
+      "title": "코스트코 초보 필수 시청👀 장보기부터 냉동 소분까지 한 번에",
+      "url": "https://youtu.be/qtzRas6mSzk",
+      "views": 83720,
+      "date": "20260808"
+     }
+    ],
+    "usage": "영상·댓글에서 활용법 미확인",
+    "on_sale_now": true,
+    "sale_items": [
+     {
+      "code": "664919",
+      "name": "청년떡집 말랑말랑 꿀오랑 340G",
+      "sale_price": 11790,
+      "discount": 3000,
+      "end": "10.25"
+     }
+    ],
+    "origin_items": [
+     {
+      "code": "664919",
+      "name": "청년떡집 말랑말랑 꿀오랑 340G",
+      "origin": "미확인",
+      "evidence": null
+     }
+    ],
+    "domestic": false,
+    "last_mentioned": "20260808"
+   },
+   {
+    "item": "로티세리 치킨",
+    "video_mentions": 1,
+    "comment_mentions": 7,
+    "comment_likes": 76,
+    "evidence": [
+     {
+      "title": "1인 가구의 20만원컷 코스트코 장보기 🛒 | 유지어터 식단 추천템🔥 | 식재료 활용 레시피",
+      "url": "https://youtu.be/BDVwHwUZxA0",
+      "views": 89190,
+      "date": "20260902"
+     }
+    ],
+    "usage": "다리·날개를 분리해 나눠 보관한다는 댓글 (댓글)",
+    "on_sale_now": false,
+    "sale_items": [],
+    "origin_items": [],
+    "domestic": false,
+    "last_mentioned": "20260902"
+   },
+   {
+    "item": "라면",
+    "video_mentions": 2,
+    "comment_mentions": 4,
+    "comment_likes": 139,
+    "evidence": [
+     {
+      "title": "🌈코스트코 명절 전 할인이 계속 늘어나는 중- 품절에 신상에 할인에- 늦으면 없어요~~~",
+      "url": "https://youtu.be/sETzf_TxYm0",
+      "views": 122766,
+      "date": "20260915"
+     },
+     {
+      "title": "🌈코스트코  주말! 전지점 영업! 이번 주말까지만 딱! 할인! 안갈건데 보시면 가게되는... 코코덕 할인브리핑",
+      "url": "https://youtu.be/R2NtjMobYE4",
+      "views": 96940,
+      "date": "20260904"
+     }
+    ],
+    "usage": "영상·댓글에서 활용법 미확인",
+    "on_sale_now": true,
+    "sale_items": [
+     {
+      "code": "693040",
+      "name": "농심 신라면 블랙 134G X 16",
+      "sale_price": 14990,
+      "discount": 4000,
+      "end": "10.25"
+     },
+     {
+      "code": "690102",
+      "name": "삼양 1963 라면 131G X 16",
+      "sale_price": 16790,
+      "discount": 2000,
+      "end": "10.25"
+     },
+     {
+      "code": "638431",
+      "name": "삼양 불닭볶음면 큰컵 105G X 16",
+      "sale_price": 16990,
+      "discount": 2000,
+      "end": "10.25"
+     }
+    ],
+    "origin_items": [
+     {
+      "code": "693040",
+      "name": "농심 신라면 블랙 134G X 16",
+      "origin": "국산·국내생산",
+      "evidence": "생산자: ㈜농심 / 서울특별시 동작구 여의대방로 112(신대방동) / 수입신고: 해당사항 없음"
+     },
+     {
+      "code": "690102",
+      "name": "삼양 1963 라면 131G X 16",
+      "origin": "국산·국내생산",
+      "evidence": "생산자: 삼양식품(주) / 서울특별시 중구 퇴계로 15 / 익산공장 / 수입신고: 해당사항 없음"
+     },
+     {
+      "code": "638431",
+      "name": "삼양 불닭볶음면 큰컵 105G X 16",
+      "origin": "국산·국내생산",
+      "evidence": "생산자: 삼양식품㈜ / 서울특별시 성북구 오패산로3길 104 / 수입신고: 해당사항 없음"
+     }
+    ],
+    "domestic": true,
+    "last_mentioned": "20260915"
+   },
+   {
+    "item": "핫도그",
+    "video_mentions": 0,
+    "comment_mentions": 10,
+    "comment_likes": 512,
+    "evidence": [],
+    "usage": "번·소시지 소분 이야기 (댓글)",
+    "on_sale_now": false,
+    "sale_items": [],
+    "origin_items": [],
+    "domestic": false,
+    "last_mentioned": null
+   },
+   {
+    "item": "밀폐용기",
+    "video_mentions": 3,
+    "comment_mentions": 1,
+    "comment_likes": 0,
+    "evidence": [
+     {
+      "title": "혼자 사는 10년차의 코스트코 장보기 | 찐 추천템 20가지",
+      "url": "https://youtu.be/iNEvYICLj14",
+      "views": 694909,
+      "date": "20260906"
+     },
+     {
+      "title": "1인 가구 코스트코 추천템 23가지 | 이렇게 소분하면 진짜 이득입니다",
+      "url": "https://youtu.be/Svk3p8K3XOA",
+      "views": 144592,
+      "date": "20260628"
+     }
+    ],
+    "usage": "영상·댓글에서 활용법 미확인",
+    "on_sale_now": false,
+    "sale_items": [],
+    "origin_items": [],
+    "domestic": false,
+    "last_mentioned": "20260906"
+   },
+   {
+    "item": "초콜릿",
+    "video_mentions": 2,
+    "comment_mentions": 4,
+    "comment_likes": 96,
+    "evidence": [
+     {
+      "title": "❌ 조리 없이! 10만 원 정도 예산, 코스트코 장 봐서 몇 달 편해지는 소분·냉동 살림법",
+      "url": "https://youtu.be/oeim8BjuLjA",
+      "views": 841356,
+      "date": "20261008"
+     },
+     {
+      "title": "❌광고❌ 품절될까봐 20개나 쟁여둔 강주은의 코스트코 찐템 대공개🔥",
+      "url": "https://youtu.be/ImqTxPl9Yuw",
+      "views": 961434,
+      "date": "20251210"
+     }
+    ],
+    "usage": "초콜릿 케이크는 데워 먹으면 퐁당오쇼콜라 같다는 댓글 (댓글)",
+    "on_sale_now": false,
+    "sale_items": [],
+    "origin_items": [],
+    "domestic": false,
+    "last_mentioned": "20261008"
+   }
+  ]
+ },
+ "popular_history": [
+  {
+   "at": "2026-10-20",
+   "top": [
+    [
+     "치즈",
+     12,
+     59
+    ],
+    [
+     "계란",
+     5,
+     19
+    ],
+    [
+     "새우",
+     4,
+     20
+    ],
+    [
+     "피자",
+     4,
+     18
+    ],
+    [
+     "버터",
+     6,
+     12
+    ],
+    [
+     "냄비/프라이팬",
+     5,
+     11
+    ],
+    [
+     "아보카도",
+     5,
+     10
+    ],
+    [
+     "김치",
+     3,
+     10
+    ],
+    [
+     "딸기",
+     4,
+     6
+    ],
+    [
+     "세제",
+     5,
+     3
+    ],
+    [
+     "샐러드",
+     1,
+     14
+    ],
+    [
+     "그릭요거트",
+     2,
+     10
+    ],
+    [
+     "부채살",
+     2,
+     9
+    ],
+    [
+     "소불고기",
+     3,
+     5
+    ],
+    [
+     "연어",
+     2,
+     7
+    ],
+    [
+     "블루베리",
+     2,
+     6
+    ],
+    [
+     "올리브오일",
+     2,
+     6
+    ],
+    [
+     "꿀",
+     2,
+     6
+    ],
+    [
+     "키친타월",
+     1,
+     9
+    ],
+    [
+     "떡볶이·떡",
+     2,
+     5
+    ],
+    [
+     "로티세리 치킨",
+     1,
+     7
+    ],
+    [
+     "라면",
+     2,
+     4
+    ],
+    [
+     "핫도그",
+     0,
+     10
+    ],
+    [
+     "밀폐용기",
+     3,
+     1
+    ],
+    [
+     "초콜릿",
+     2,
+     4
+    ]
+   ]
+  },
+  {
+   "at": "2026-10-20",
+   "top": [
+    [
+     "치즈",
+     12,
+     59
+    ],
+    [
+     "계란",
+     5,
+     19
+    ],
+    [
+     "새우",
+     4,
+     20
+    ],
+    [
+     "피자",
+     4,
+     18
+    ],
+    [
+     "버터",
+     6,
+     12
+    ],
+    [
+     "냄비/프라이팬",
+     5,
+     11
+    ],
+    [
+     "아보카도",
+     5,
+     10
+    ],
+    [
+     "김치",
+     3,
+     10
+    ],
+    [
+     "딸기",
+     4,
+     6
+    ],
+    [
+     "세제",
+     5,
+     3
+    ],
+    [
+     "샐러드",
+     1,
+     14
+    ],
+    [
+     "그릭요거트",
+     2,
+     10
+    ],
+    [
+     "부채살",
+     2,
+     9
+    ],
+    [
+     "소불고기",
+     3,
+     5
+    ],
+    [
+     "연어",
+     2,
+     7
+    ],
+    [
+     "블루베리",
+     2,
+     6
+    ],
+    [
+     "올리브오일",
+     2,
+     6
+    ],
+    [
+     "꿀",
+     2,
+     6
+    ],
+    [
+     "키친타월",
+     1,
+     9
+    ],
+    [
+     "떡볶이·떡",
+     2,
+     5
+    ],
+    [
+     "로티세리 치킨",
+     1,
+     7
+    ],
+    [
+     "라면",
+     2,
+     4
+    ],
+    [
+     "핫도그",
+     0,
+     10
+    ],
+    [
+     "밀폐용기",
+     3,
+     1
+    ],
+    [
+     "초콜릿",
+     2,
+     4
+    ]
+   ]
+  },
+  {
+   "at": "2026-10-20",
+   "top": [
+    [
+     "치즈",
+     12,
+     59
+    ],
+    [
+     "계란",
+     5,
+     19
+    ],
+    [
+     "새우",
+     4,
+     20
+    ],
+    [
+     "피자",
+     4,
+     18
+    ],
+    [
+     "버터",
+     6,
+     12
+    ],
+    [
+     "냄비/프라이팬",
+     5,
+     11
+    ],
+    [
+     "아보카도",
+     5,
+     10
+    ],
+    [
+     "김치",
+     3,
+     10
+    ],
+    [
+     "딸기",
+     4,
+     6
+    ],
+    [
+     "세제",
+     5,
+     3
+    ],
+    [
+     "샐러드",
+     1,
+     14
+    ],
+    [
+     "그릭요거트",
+     2,
+     10
+    ],
+    [
+     "부채살",
+     2,
+     9
+    ],
+    [
+     "소불고기",
+     3,
+     5
+    ],
+    [
+     "연어",
+     2,
+     7
+    ],
+    [
+     "블루베리",
+     2,
+     6
+    ],
+    [
+     "올리브오일",
+     2,
+     6
+    ],
+    [
+     "꿀",
+     2,
+     6
+    ],
+    [
+     "키친타월",
+     1,
+     9
+    ],
+    [
+     "떡볶이·떡",
+     2,
+     5
+    ],
+    [
+     "로티세리 치킨",
+     1,
+     7
+    ],
+    [
+     "라면",
+     2,
+     4
+    ],
+    [
+     "핫도그",
+     0,
+     10
+    ],
+    [
+     "밀폐용기",
+     3,
+     1
+    ],
+    [
+     "초콜릿",
+     2,
+     4
+    ]
+   ]
+  },
+  {
+   "at": "2026-10-20",
+   "top": [
+    [
+     "치즈",
+     12,
+     59
+    ],
+    [
+     "계란",
+     5,
+     19
+    ],
+    [
+     "새우",
+     4,
+     20
+    ],
+    [
+     "피자",
+     4,
+     18
+    ],
+    [
+     "버터",
+     6,
+     12
+    ],
+    [
+     "냄비/프라이팬",
+     5,
+     11
+    ],
+    [
+     "아보카도",
+     5,
+     10
+    ],
+    [
+     "김치",
+     3,
+     10
+    ],
+    [
+     "딸기",
+     4,
+     6
+    ],
+    [
+     "세제",
+     5,
+     3
+    ],
+    [
+     "샐러드",
+     1,
+     14
+    ],
+    [
+     "그릭요거트",
+     2,
+     10
+    ],
+    [
+     "부채살",
+     2,
+     9
+    ],
+    [
+     "소불고기",
+     3,
+     5
+    ],
+    [
+     "연어",
+     2,
+     7
+    ],
+    [
+     "블루베리",
+     2,
+     6
+    ],
+    [
+     "올리브오일",
+     2,
+     6
+    ],
+    [
+     "꿀",
+     2,
+     6
+    ],
+    [
+     "키친타월",
+     1,
+     9
+    ],
+    [
+     "떡볶이·떡",
+     2,
+     5
+    ],
+    [
+     "로티세리 치킨",
+     1,
+     7
+    ],
+    [
+     "라면",
+     2,
+     4
+    ],
+    [
+     "핫도그",
+     0,
+     10
+    ],
+    [
+     "밀폐용기",
+     3,
+     1
+    ],
+    [
+     "초콜릿",
+     2,
+     4
+    ]
+   ]
+  },
+  {
+   "at": "2026-10-20",
+   "top": [
+    [
+     "치즈",
+     12,
+     59
+    ],
+    [
+     "계란",
+     5,
+     19
+    ],
+    [
+     "새우",
+     4,
+     20
+    ],
+    [
+     "피자",
+     4,
+     18
+    ],
+    [
+     "버터",
+     6,
+     12
+    ],
+    [
+     "냄비/프라이팬",
+     5,
+     11
+    ],
+    [
+     "아보카도",
+     5,
+     10
+    ],
+    [
+     "김치",
+     3,
+     10
+    ],
+    [
+     "딸기",
+     4,
+     6
+    ],
+    [
+     "세제",
+     5,
+     3
+    ],
+    [
+     "샐러드",
+     1,
+     14
+    ],
+    [
+     "그릭요거트",
+     2,
+     10
+    ],
+    [
+     "부채살",
+     2,
+     9
+    ],
+    [
+     "소불고기",
+     3,
+     5
+    ],
+    [
+     "연어",
+     2,
+     7
+    ],
+    [
+     "블루베리",
+     2,
+     6
+    ],
+    [
+     "올리브오일",
+     2,
+     6
+    ],
+    [
+     "꿀",
+     2,
+     6
+    ],
+    [
+     "키친타월",
+     1,
+     9
+    ],
+    [
+     "떡볶이·떡",
+     2,
+     5
+    ],
+    [
+     "로티세리 치킨",
+     1,
+     7
+    ],
+    [
+     "라면",
+     2,
+     4
+    ],
+    [
+     "핫도그",
+     0,
+     10
+    ],
+    [
+     "밀폐용기",
+     3,
+     1
+    ],
+    [
+     "초콜릿",
+     2,
+     4
+    ]
+   ]
+  },
+  {
+   "at": "2026-10-20",
+   "top": [
+    [
+     "치즈",
+     12,
+     59
+    ],
+    [
+     "계란",
+     5,
+     19
+    ],
+    [
+     "새우",
+     4,
+     20
+    ],
+    [
+     "피자",
+     4,
+     18
+    ],
+    [
+     "버터",
+     6,
+     12
+    ],
+    [
+     "냄비/프라이팬",
+     5,
+     11
+    ],
+    [
+     "아보카도",
+     5,
+     10
+    ],
+    [
+     "김치",
+     3,
+     10
+    ],
+    [
+     "딸기",
+     4,
+     6
+    ],
+    [
+     "세제",
+     5,
+     3
+    ],
+    [
+     "샐러드",
+     1,
+     14
+    ],
+    [
+     "그릭요거트",
+     2,
+     10
+    ],
+    [
+     "부채살",
+     2,
+     9
+    ],
+    [
+     "소불고기",
+     3,
+     5
+    ],
+    [
+     "연어",
+     2,
+     7
+    ],
+    [
+     "블루베리",
+     2,
+     6
+    ],
+    [
+     "올리브오일",
+     2,
+     6
+    ],
+    [
+     "꿀",
+     2,
+     6
+    ],
+    [
+     "키친타월",
+     1,
+     9
+    ],
+    [
+     "떡볶이·떡",
+     2,
+     5
+    ],
+    [
+     "로티세리 치킨",
+     1,
+     7
+    ],
+    [
+     "라면",
+     2,
+     4
+    ],
+    [
+     "핫도그",
+     0,
+     10
+    ],
+    [
+     "밀폐용기",
+     3,
+     1
+    ],
+    [
+     "초콜릿",
+     2,
+     4
+    ]
+   ]
+  },
+  {
+   "at": "2026-10-20",
+   "top": [
+    [
+     "치즈",
+     12,
+     59
+    ],
+    [
+     "계란",
+     5,
+     19
+    ],
+    [
+     "새우",
+     4,
+     20
+    ],
+    [
+     "피자",
+     4,
+     18
+    ],
+    [
+     "버터",
+     6,
+     12
+    ],
+    [
+     "냄비/프라이팬",
+     5,
+     11
+    ],
+    [
+     "아보카도",
+     5,
+     10
+    ],
+    [
+     "김치",
+     3,
+     10
+    ],
+    [
+     "딸기",
+     4,
+     6
+    ],
+    [
+     "세제",
+     5,
+     3
+    ],
+    [
+     "샐러드",
+     1,
+     14
+    ],
+    [
+     "그릭요거트",
+     2,
+     10
+    ],
+    [
+     "부채살",
+     2,
+     9
+    ],
+    [
+     "소불고기",
+     3,
+     5
+    ],
+    [
+     "연어",
+     2,
+     7
+    ],
+    [
+     "블루베리",
+     2,
+     6
+    ],
+    [
+     "올리브오일",
+     2,
+     6
+    ],
+    [
+     "꿀",
+     2,
+     6
+    ],
+    [
+     "키친타월",
+     1,
+     9
+    ],
+    [
+     "떡볶이·떡",
+     2,
+     5
+    ],
+    [
+     "로티세리 치킨",
+     1,
+     7
+    ],
+    [
+     "라면",
+     2,
+     4
+    ],
+    [
+     "핫도그",
+     0,
+     10
+    ],
+    [
+     "밀폐용기",
+     3,
+     1
+    ],
+    [
+     "초콜릿",
+     2,
+     4
+    ]
+   ]
+  }
+ ]
+}

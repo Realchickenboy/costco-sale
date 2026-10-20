@@ -1,0 +1,49 @@
+<!doctype html><html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>이번 주 코스트코 매장 할인</title><style>
+body{font-family:system-ui,-apple-system,"Noto Sans KR",sans-serif;margin:0;background:#f4f6f9;color:#222}
+header{background:#e31837;color:#fff;padding:16px}h1{font-size:1.45rem;margin:0}
+.hero{display:flex;gap:8px;margin-top:10px;flex-wrap:wrap}.box{background:#fff2;border-radius:10px;padding:8px 12px}.box b{display:block;font-size:1.3rem}
+.tabs{display:flex;gap:4px;padding:8px 12px 0;background:#f4f6f9}.tab{border:0;background:none;padding:6px 10px;font-size:.85rem;color:#888;border-bottom:2px solid transparent}
+.tab.on{color:#e31837;font-weight:700;border-color:#e31837}.tab.sm{margin-left:auto;font-size:.75rem}
+.hl{display:flex;gap:8px;overflow-x:auto;padding:10px 12px}.hl .c{min-width:150px;max-width:150px}
+h2{font-size:1rem;margin:10px 12px 0}.ctl{display:flex;flex-wrap:wrap;gap:6px;padding:8px 12px;position:sticky;top:0;background:#f4f6f9;z-index:2}
+.ctl input,.ctl select{padding:8px;border-radius:6px;border:1px solid #ccc;font-size:.95rem;flex:1;min-width:120px}
+.note{font-size:.75rem;color:#555;padding:0 12px}.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:10px;padding:12px}
+.c{background:#fff;border-radius:10px;overflow:hidden;box-shadow:0 1px 3px #0002;display:flex;flex-direction:column;text-decoration:none;color:inherit}
+.c img{width:100%;aspect-ratio:1;object-fit:contain;background:#fff}.noimg{aspect-ratio:1;display:flex;flex-direction:column;gap:10px;align-items:center;justify-content:center;background:linear-gradient(135deg,#f1f3f6,#e4e8ee);color:#8a94a3;font-size:.8rem}a.n{color:inherit;text-decoration:none}.vl{font-size:.75rem;color:#ff0033;font-weight:700;text-decoration:none}.vb{text-decoration:none;background:#ff0033;color:#fff;border-radius:16px;padding:6px 12px;font-size:.78rem;font-weight:700;cursor:pointer}
+footer{background:#222;color:#ccc;font-size:.8rem;padding:16px;line-height:1.8;text-align:center}footer a{color:#fff}
+.b{padding:8px;font-size:.85rem;display:flex;flex-direction:column;gap:3px}.cat{color:#005daa;font-size:.72rem}.n{font-weight:600;line-height:1.3}
+.o{text-decoration:line-through;color:#888;font-size:.78rem}.s{color:#e31837;font-weight:700;font-size:1.05rem}
+.d{background:#e31837;color:#fff;border-radius:4px;padding:1px 5px;font-size:.75rem;align-self:flex-start}.p{color:#666;font-size:.72rem}
+.now{background:#ffd400;color:#c00;font-weight:800;border-radius:4px;padding:2px 6px;font-size:.78rem;align-self:flex-start}.pc{min-width:220px!important;max-width:220px!important}.src{font-size:.65rem;color:#999}
+.u{background:#fff3cd;color:#8a6d00;border-radius:4px;padding:1px 5px;font-size:.7rem;align-self:flex-start}
+#online header,#online .hero{display:none}
+</style></head><body>
+<header><h1>🛒 이번 주 코스트코 매장 할인</h1><div style="font-size:.85rem;margin-top:4px">📸 매장 가격표를 직접 촬영한 자료로만 만든 목록</div><div class="hero" id="hero"></div></header>
+<div class="tabs"><button class="tab on" data-t="store">매장 할인</button><button class="tab sm" data-t="online">온라인 할인 보기</button></div>
+<section id="store"><h2>🔥 할인액 TOP</h2><div class="hl" id="hl"></div>
+<p class="note">※ 매장마다 다를 수 있음. 출처: <a id="vlink" target="_blank" rel="noopener"></a> 영상 속 가격표를 직접 읽은 값입니다. '미확인'은 가격표가 흐리거나 가려져 확신할 수 없는 값입니다. '영상에서 보기'를 누르면 해당 장면으로 이동합니다. 종료일이 지난 품목은 자동 제외됩니다. <span id="smeta"></span></p>
+<div class="ctl"><input id="sq" placeholder="상품명 검색"><select id="scat"></select><select id="ssort"><option value="disc">할인액 높은순</option><option value="low">할인가 낮은순</option><option value="end">마감 임박순</option></select></div>
+<div class="grid" id="sgrid"></div></section>
+<section id="online" hidden><p class="note" id="ometa"></p>
+<div class="ctl"><input id="q" placeholder="상품명 검색"><select id="cat"></select><select id="sort"><option value="rate">할인율 높은순</option><option value="disc">할인액 높은순</option><option value="low">할인가 낮은순</option><option value="end">마감 임박순</option></select></div>
+<div class="grid" id="grid"></div></section>
+<footer>제작: <a href="https://x.com/RealChickenBoy9" target="_blank" rel="noopener">X @RealChickenBoy9 (리얼치킨보이)</a><br>매장 할인 정보 출처: <a href="https://www.youtube.com/@CoReview1004" target="_blank" rel="noopener">CoReview 유튜브(@CoReview1004)</a><br>※ 가격은 매장마다 다를 수 있음</footer>
+<script>
+const D=/*DATA*/null, S=/*STORE*/null; const w=n=>n==null?'-':Math.round(n).toLocaleString('ko-KR')+'원';
+const ends=S.items.map(i=>i.end).filter(Boolean), mode=[...ends].sort((a,b)=>ends.filter(x=>x==b).length-ends.filter(x=>x==a).length)[0];
+hero.innerHTML=`<div class="box">할인 기간(대부분)<b>~${mode||'-'}</b></div><div class="box">매장 할인<b>${S.count}개</b></div><div class="box">최대 할인<b>-${w(Math.max(...S.items.map(i=>i.discount||0)))}</b></div>`;
+vlink.href=S.sources[0].url;vlink.textContent=S.sources.map(x=>x.source).join(', ');
+smeta.textContent=`· 매장 ${S.count}개 · 갱신 ${S.updated}`;
+ometa.textContent=`온라인몰(costco.co.kr) 스페셜 프라이스 ${D.count}개 · 갱신 ${D.updated} · 매장 가격과 다를 수 있음`;
+const card=i=>{const yt=i.video_time&&i.url, vl=(cls,txt)=>`<a class="${cls}" href="${i.url}" target="_blank" rel="noopener" onclick="event.stopPropagation()">${txt}</a>`;
+return `<div class="c">${i.image?`<img loading="lazy" src="${i.image}" alt="">`:(yt?`<div class="noimg"><span>📷 공식 사진 없음</span>${vl('vb','▶ 영상에서 보기 ('+i.video_time+')')}</div>`:'<div class="noimg"><span>📷 사진 없음</span></div>')}<div class="b"><span class="cat">${i.category}${i.image_src?` <span class="src">· 사진 ${i.image_src}</span>`:''}</span>${!yt&&i.url?`<a class="n" href="${i.url}" target="_blank" rel="noopener">${i.name}</a>`:`<span class="n">${i.name}</span>`}${i.regular_price?`<span class="o">${w(i.regular_price)}</span>`:''}<span class="s">${w(i.sale_price)}</span>${i.discount?`<span class="d">-${w(i.discount)}${i.discount_rate?` (${i.discount_rate}%)`:''}</span>`:''}${i.status=='미확인'?`<span class="u" title="${i.note||''}">미확인 · ${i.note||''}</span>`:''}<span class="p">${i.source?('출처: '+i.source+' · '):''}${i.start||''}${i.start||i.end?' ~ ':''}${i.end||(yt?'기간 미확인':'')}</span>${yt&&i.image?vl('vl','▶ 영상에서 보기 ('+i.video_time+')'):''}</div></div>`};
+hl.innerHTML=[...S.items].sort((a,b)=>(b.discount||0)-(a.discount||0)).slice(0,10).map(card).join('');
+function opts(el,a){el.innerHTML='<option value="">전체 카테고리</option>'+[...new Set(a.map(i=>i.category))].sort().map(c=>`<option>${c}</option>`).join('')}
+opts(scat,S.items);opts(cat,D.items);
+function list(a,k,c,s){k=k.trim().toLowerCase();a=a.filter(i=>(!c||i.category==c)&&(!k||(i.name||'').toLowerCase().includes(k)));
+return a.sort((x,y)=>s=='rate'?(y.discount_rate||0)-(x.discount_rate||0):s=='disc'?(y.discount||0)-(x.discount||0):s=='low'?x.sale_price-y.sale_price:(x.end||'z').localeCompare(y.end||'z')).map(card).join('')||'<p>결과 없음</p>'}
+const rs=()=>sgrid.innerHTML=list(S.items,sq.value,scat.value,ssort.value), ro=()=>grid.innerHTML=list(D.items,q.value,cat.value,sort.value);
+sq.oninput=scat.onchange=ssort.onchange=rs;q.oninput=cat.onchange=sort.onchange=ro;rs();ro();
+document.querySelectorAll('.tab').forEach(b=>b.onclick=()=>{document.querySelectorAll('.tab').forEach(x=>x.classList.toggle('on',x==b));store.hidden=b.dataset.t!='store';online.hidden=b.dataset.t!='online';});
+</script></body></html>
