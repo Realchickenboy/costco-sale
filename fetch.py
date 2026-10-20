@@ -37,10 +37,13 @@ here=os.path.dirname(os.path.abspath(__file__))
 json.dump(out,open(os.path.join(here,"data.json"),"w"),ensure_ascii=False,indent=1)
 subprocess.run([sys.executable,os.path.join(here,"video_store.py")],check=True)
 subprocess.run([sys.executable,os.path.join(here,"images.py")],check=True)
+subprocess.run([sys.executable,os.path.join(here,"poster2.py")],cwd=here)  # 전단지 poster.png/webp 재생성
 subprocess.run([sys.executable,os.path.join(here,"comments.py")])
 if os.path.exists("/workspace/yt/popular_raw.json"): subprocess.run([sys.executable,os.path.join(here,"popular_build.py")])
 wanted=json.load(open(os.path.join(here,"wanted.json"),encoding="utf-8"))
 store=json.load(open(os.path.join(here,"store_data.json"),encoding="utf-8"))
 tpl=open(os.path.join(here,"template.html"),encoding="utf-8").read()
+_pm=json.load(open(os.path.join(here,"poster_meta.json"))) if os.path.exists(os.path.join(here,"poster_meta.json")) else {"w":1080,"h":6242}
+tpl=tpl.replace("/*POSTERV*/",datetime.datetime.now(KST).strftime("%Y%m%d%H%M")).replace("/*POSTERW*/",str(_pm["w"])).replace("/*POSTERH*/",str(_pm["h"]))
 open(os.path.join(here,"index.html"),"w",encoding="utf-8").write(tpl.replace("/*DATA*/null",json.dumps(out,ensure_ascii=False).replace("</","<\\/")).replace("/*STORE*/null",json.dumps(store,ensure_ascii=False).replace("</","<\\/")))
 print("수집",len(items),"개")

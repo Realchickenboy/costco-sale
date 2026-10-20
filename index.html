@@ -46,10 +46,17 @@ footer{border-top:1px solid var(--line);color:var(--sub);font-size:.8rem;line-he
 h2{font-size:1.2rem;margin-top:24px}.tab{min-height:44px;font-size:.88rem;padding:0 6px}
 .hl .c{flex-basis:160px}.grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:10px;padding-bottom:calc(32px + env(safe-area-inset-bottom))}
 .c{border-radius:16px}.b{padding:10px 12px 12px}.s{font-size:1.1rem}.p,.cat,.u{font-size:.72rem}.chip{min-height:40px}.ctl select{max-width:44%}.vb,.vl{padding:0 12px;font-size:.76rem;width:100%}}
+.pst{max-width:720px;margin:20px auto 0;text-align:center}.pst .pv{position:relative;overflow:hidden;max-height:500px;border-radius:14px;border:1px solid var(--line);transition:max-height .4s}
+.pst.open .pv{max-height:none}.pst img{display:block;width:100%;height:auto}.pst .pv::after{content:'';position:absolute;left:0;right:0;bottom:0;height:120px;background:linear-gradient(rgba(255,255,255,0),#fff);pointer-events:none}
+.pst.open .pv::after{display:none}.pst .pb{display:flex;gap:8px;justify-content:center;margin-top:10px}.pst button,.pst .dl{min-height:44px;padding:0 20px;border-radius:999px;border:0;font:inherit;font-weight:700;font-size:.9rem;cursor:pointer;display:inline-flex;align-items:center;text-decoration:none}
+.pst button{background:var(--acc);color:#fff}.pst .dl{background:rgba(0,0,0,.06);color:var(--ink)}
+@media (max-width:760px){.pst{margin:12px -16px 0;max-width:none}.pst .pv{max-height:420px;border-radius:0;border-left:0;border-right:0}}
 </style></head><body>
 <div class="top"><div class="wrap"><div class="brand">🛒 코스트코 할인</div>
 <div class="seg" id="seg" data-on="store"><button class="tab on" data-t="store">매장 할인<span class="cnt" id="scnt"></span></button><button class="tab" data-t="online">온라인 할인 보기<span class="cnt" id="ocnt"></span></button></div></div></div>
 <main class="wrap">
+<div class="pst" id="pst"><div class="pv"><a href="poster.webp?v=202610202345" target="_blank" rel="noopener"><img src="poster.webp?v=202610202345" width="1080" height="6242" loading="eager" alt="코스트코 이번 주 매장 할인 전단지"></a></div>
+<div class="pb"><button type="button" id="pbtn" onclick="const o=pst.classList.toggle('open');this.textContent=o?'접기':'전단지 펼쳐보기';if(!o)pst.scrollIntoView({block:'start'})">전단지 펼쳐보기</button><a class="dl" href="poster.webp?v=202610202345" download="costco-sale-poster.webp">전단지 이미지 저장</a></div></div>
 <section id="store"><div class="hero-s"><p class="eyebrow">📸 매장 가격표를 직접 촬영·확인한 자료로만 만든 목록</p><h1>이번 주 코스트코<br>매장 할인<span id="period"></span></h1><div class="hero" id="hero"></div></div>
 <h2>🔥 할인액 TOP</h2><div class="hl" id="hl"></div>
 <p class="note">※ 매장마다 다를 수 있음. 출처: <a id="vlink" target="_blank" rel="noopener"></a> 영상 속 가격표를 직접 읽은 값입니다. '미확인'은 가격표가 흐리거나 가려져 확신할 수 없는 값입니다. '영상에서 보기'를 누르면 해당 장면으로 이동합니다. 종료일이 지난 품목은 자동 제외됩니다. <span id="smeta"></span></p>
