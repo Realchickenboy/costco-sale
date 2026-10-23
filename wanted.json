@@ -63,11 +63,25 @@
    "comment_count": 0,
    "fetched": 0,
    "error": "from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies. Also see  https://github.com/yt-dlp/yt-dlp/wiki/Extractors#exporting-youtube-cookies  for tips on effectively exporting YouTube cookies\n"
+  },
+  {
+   "at": "2026-10-23 09:10 KST",
+   "video": "4yKkJetxy_4",
+   "comment_count": 0,
+   "fetched": 0,
+   "error": null
+  },
+  {
+   "at": "2026-10-23 09:12 KST",
+   "video": "4yKkJetxy_4",
+   "comment_count": 0,
+   "fetched": 0,
+   "error": null
   }
  ],
  "items": {},
  "popular": {
-  "updated": "2026-10-20 15:52 KST",
+  "updated": "2026-10-23 09:12 KST",
   "videos": 50,
   "recent_videos": 39,
   "comments": 1971,
@@ -444,24 +458,9 @@
      }
     ],
     "usage": "벽돌 모짜렐라는 샌드위치용 슬라이스·간식용 큐브로 잘라 냉동 소분 (영상 설명 타임라인)",
-    "on_sale_now": true,
-    "sale_items": [
-     {
-      "code": "695647",
-      "name": "카스텔로 휩트크림치즈 오리지널&갈릭 125G X 4",
-      "sale_price": 11990,
-      "discount": 3000,
-      "end": "10.25"
-     }
-    ],
-    "origin_items": [
-     {
-      "code": "695647",
-      "name": "카스텔로 휩트크림치즈 오리지널&갈릭 125G X 4",
-      "origin": "미확인",
-      "evidence": null
-     }
-    ],
+    "on_sale_now": false,
+    "sale_items": [],
+    "origin_items": [],
     "domestic": false,
     "last_mentioned": "20261008"
    },
@@ -537,24 +536,9 @@
      }
     ],
     "usage": "도우를 냉장 숙성 후 에어프라이어로 굽는 법 소개 (영상 설명)",
-    "on_sale_now": true,
-    "sale_items": [
-     {
-      "code": "663486",
-      "name": "리스토란테 모짜렐라 피자 2,130G (355G X 6)",
-      "sale_price": 26990,
-      "discount": 3000,
-      "end": "10.25"
-     }
-    ],
-    "origin_items": [
-     {
-      "code": "663486",
-      "name": "리스토란테 모짜렐라 피자 2,130G (355G X 6)",
-      "origin": "미확인",
-      "evidence": null
-     }
-    ],
+    "on_sale_now": false,
+    "sale_items": [],
+    "origin_items": [],
     "domestic": false,
     "last_mentioned": "20261008"
    },
@@ -578,24 +562,9 @@
      }
     ],
     "usage": "버터 소분틀로 잘라 빵·치즈와 함께 소분 보관 (영상 설명·댓글)",
-    "on_sale_now": true,
-    "sale_items": [
-     {
-      "code": "683121",
-      "name": "앵커FP 무염버터 454G X 4",
-      "sale_price": 23990,
-      "discount": 6000,
-      "end": "10.25"
-     }
-    ],
-    "origin_items": [
-     {
-      "code": "683121",
-      "name": "앵커FP 무염버터 454G X 4",
-      "origin": "미확인",
-      "evidence": null
-     }
-    ],
+    "on_sale_now": false,
+    "sale_items": [],
+    "origin_items": [],
     "domestic": false,
     "last_mentioned": "20260902"
    },
@@ -619,9 +588,37 @@
      }
     ],
     "usage": "영상·댓글에서 활용법 미확인",
-    "on_sale_now": false,
-    "sale_items": [],
-    "origin_items": [],
+    "on_sale_now": true,
+    "sale_items": [
+     {
+      "code": "670208",
+      "name": "테팔 프라이팬 2P 22CM/28CM",
+      "sale_price": 63900,
+      "discount": 16000,
+      "end": "11.01"
+     },
+     {
+      "code": "678567",
+      "name": "테팔 티타늄포스 웍 28CM",
+      "sale_price": 37990,
+      "discount": 10000,
+      "end": "11.01"
+     }
+    ],
+    "origin_items": [
+     {
+      "code": "670208",
+      "name": "테팔 프라이팬 2P 22CM/28CM",
+      "origin": "수입",
+      "evidence": "제조국 또는 원산지: 프랑스"
+     },
+     {
+      "code": "678567",
+      "name": "테팔 티타늄포스 웍 28CM",
+      "origin": "수입",
+      "evidence": "제조국 또는 원산지: 프랑스"
+     }
+    ],
     "domestic": false,
     "last_mentioned": "20261008"
    },
@@ -645,24 +642,9 @@
      }
     ],
     "usage": "영상·댓글에서 활용법 미확인",
-    "on_sale_now": true,
-    "sale_items": [
-     {
-      "code": "605698",
-      "name": "아보카도 6개 (페루)",
-      "sale_price": 9590,
-      "discount": 2400,
-      "end": "10.25"
-     }
-    ],
-    "origin_items": [
-     {
-      "code": "605698",
-      "name": "아보카도 6개 (페루)",
-      "origin": "수입",
-      "evidence": "매장 가격표 원산지: 페루"
-     }
-    ],
+    "on_sale_now": false,
+    "sale_items": [],
+    "origin_items": [],
     "domestic": false,
     "last_mentioned": "20260902"
    },
@@ -686,24 +668,9 @@
      }
     ],
     "usage": "남은 고기와 함께 냉동 김치찜 밀키트로 만들어 두기 (영상 설명)",
-    "on_sale_now": true,
-    "sale_items": [
-     {
-      "code": "693154",
-      "name": "아워홈 갓석박지 1.5KG",
-      "sale_price": 11990,
-      "discount": 3000,
-      "end": "10.25"
-     }
-    ],
-    "origin_items": [
-     {
-      "code": "693154",
-      "name": "아워홈 갓석박지 1.5KG",
-      "origin": "미확인",
-      "evidence": null
-     }
-    ],
+    "on_sale_now": false,
+    "sale_items": [],
+    "origin_items": [],
     "domestic": false,
     "last_mentioned": "20261008"
    },
@@ -756,22 +723,22 @@
     "on_sale_now": true,
     "sale_items": [
      {
-      "code": "614105",
-      "name": "퍼실 어드밴스드젤세탁세제 4.0L",
-      "sale_price": 22790,
-      "discount": 6200,
-      "end": "10.25"
+      "code": "680688",
+      "name": "슈가버블 식기세척기세제 10G X 130개",
+      "sale_price": 14990,
+      "discount": 4000,
+      "end": "11.01"
      }
     ],
     "origin_items": [
      {
-      "code": "614105",
-      "name": "퍼실 어드밴스드젤세탁세제 4.0L",
-      "origin": "미확인",
-      "evidence": null
+      "code": "680688",
+      "name": "슈가버블 식기세척기세제 10G X 130개",
+      "origin": "국산·국내생산",
+      "evidence": "제조국 또는 원산지: 대한민국"
      }
     ],
-    "domestic": false,
+    "domestic": true,
     "last_mentioned": "20261013"
    },
    {
@@ -814,24 +781,9 @@
      }
     ],
     "usage": "꿀·바질·토마토 조합, 요거트 바크 레시피로 활용 (댓글·영상 설명)",
-    "on_sale_now": true,
-    "sale_items": [
-     {
-      "code": "689580",
-      "name": "매일 무지방 그릭요거트 907G X 2 (플레인)",
-      "sale_price": 10990,
-      "discount": 2000,
-      "end": "10.25"
-     }
-    ],
-    "origin_items": [
-     {
-      "code": "689580",
-      "name": "매일 무지방 그릭요거트 907G X 2 (플레인)",
-      "origin": "미확인",
-      "evidence": null
-     }
-    ],
+    "on_sale_now": false,
+    "sale_items": [],
+    "origin_items": [],
     "domestic": false,
     "last_mentioned": "20260902"
    },
@@ -959,37 +911,9 @@
      }
     ],
     "usage": "치즈·바질 샌드위치에 곁들여 냉동 보관 (영상 설명)",
-    "on_sale_now": true,
-    "sale_items": [
-     {
-      "code": "684084",
-      "name": "TERRA DELYSSA 엑스트라버진올리브유 1L X 2",
-      "sale_price": 21990,
-      "discount": 3000,
-      "end": "10.25"
-     },
-     {
-      "code": "687042",
-      "name": "뉴트리원 유기농엑스트라버진 올리브유 12ML X 60",
-      "sale_price": 18790,
-      "discount": 3200,
-      "end": "10.25"
-     }
-    ],
-    "origin_items": [
-     {
-      "code": "684084",
-      "name": "TERRA DELYSSA 엑스트라버진올리브유 1L X 2",
-      "origin": "수입",
-      "evidence": "수입신고: 수입식품안전관리특별법에 따른 수입신고를 필함"
-     },
-     {
-      "code": "687042",
-      "name": "뉴트리원 유기농엑스트라버진 올리브유 12ML X 60",
-      "origin": "미확인",
-      "evidence": null
-     }
-    ],
+    "on_sale_now": false,
+    "sale_items": [],
+    "origin_items": [],
     "domestic": false,
     "last_mentioned": "20261008"
    },
@@ -1059,24 +983,9 @@
      }
     ],
     "usage": "영상·댓글에서 활용법 미확인",
-    "on_sale_now": true,
-    "sale_items": [
-     {
-      "code": "664919",
-      "name": "청년떡집 말랑말랑 꿀오랑 340G",
-      "sale_price": 11790,
-      "discount": 3000,
-      "end": "10.25"
-     }
-    ],
-    "origin_items": [
-     {
-      "code": "664919",
-      "name": "청년떡집 말랑말랑 꿀오랑 340G",
-      "origin": "미확인",
-      "evidence": null
-     }
-    ],
+    "on_sale_now": false,
+    "sale_items": [],
+    "origin_items": [],
     "domestic": false,
     "last_mentioned": "20260808"
    },
@@ -1123,45 +1032,45 @@
     "on_sale_now": true,
     "sale_items": [
      {
-      "code": "693040",
-      "name": "농심 신라면 블랙 134G X 16",
-      "sale_price": 14990,
-      "discount": 4000,
-      "end": "10.25"
+      "code": "620834",
+      "name": "농심 신라면 건면 97G X 20",
+      "sale_price": 16490,
+      "discount": 2300,
+      "end": "10.29"
      },
      {
-      "code": "690102",
-      "name": "삼양 1963 라면 131G X 16",
-      "sale_price": 16790,
-      "discount": 2000,
-      "end": "10.25"
+      "code": "616212",
+      "name": "농심 새우탕 115G X 8 / 튀김우동 111G X 8",
+      "sale_price": 16490,
+      "discount": 2500,
+      "end": "10.29"
      },
      {
-      "code": "638431",
-      "name": "삼양 불닭볶음면 큰컵 105G X 16",
-      "sale_price": 16990,
-      "discount": 2000,
-      "end": "10.25"
+      "code": "612003",
+      "name": "농심 너구리 120G X 20",
+      "sale_price": 14790,
+      "discount": 2800,
+      "end": "10.29"
      }
     ],
     "origin_items": [
      {
-      "code": "693040",
-      "name": "농심 신라면 블랙 134G X 16",
+      "code": "620834",
+      "name": "농심 신라면 건면 97G X 20",
+      "origin": "국산·국내생산",
+      "evidence": "생산자: ㈜농심 / 서울시 동작구 여의대방로112 / 수입신고: 해당사항 없음"
+     },
+     {
+      "code": "616212",
+      "name": "농심 새우탕 115G X 8 / 튀김우동 111G X 8",
       "origin": "국산·국내생산",
       "evidence": "생산자: ㈜농심 / 서울특별시 동작구 여의대방로 112(신대방동) / 수입신고: 해당사항 없음"
      },
      {
-      "code": "690102",
-      "name": "삼양 1963 라면 131G X 16",
+      "code": "612003",
+      "name": "농심 너구리 120G X 20",
       "origin": "국산·국내생산",
-      "evidence": "생산자: 삼양식품(주) / 서울특별시 중구 퇴계로 15 / 익산공장 / 수입신고: 해당사항 없음"
-     },
-     {
-      "code": "638431",
-      "name": "삼양 불닭볶음면 큰컵 105G X 16",
-      "origin": "국산·국내생산",
-      "evidence": "생산자: 삼양식품㈜ / 서울특별시 성북구 오패산로3길 104 / 수입신고: 해당사항 없음"
+      "evidence": "생산자: ㈜농심 / 서울시 동작구 여의대방로112 / 수입신고: 해당사항 없음"
      }
     ],
     "domestic": true,
@@ -2017,6 +1926,266 @@
   },
   {
    "at": "2026-10-20",
+   "top": [
+    [
+     "치즈",
+     12,
+     59
+    ],
+    [
+     "계란",
+     5,
+     19
+    ],
+    [
+     "새우",
+     4,
+     20
+    ],
+    [
+     "피자",
+     4,
+     18
+    ],
+    [
+     "버터",
+     6,
+     12
+    ],
+    [
+     "냄비/프라이팬",
+     5,
+     11
+    ],
+    [
+     "아보카도",
+     5,
+     10
+    ],
+    [
+     "김치",
+     3,
+     10
+    ],
+    [
+     "딸기",
+     4,
+     6
+    ],
+    [
+     "세제",
+     5,
+     3
+    ],
+    [
+     "샐러드",
+     1,
+     14
+    ],
+    [
+     "그릭요거트",
+     2,
+     10
+    ],
+    [
+     "부채살",
+     2,
+     9
+    ],
+    [
+     "소불고기",
+     3,
+     5
+    ],
+    [
+     "연어",
+     2,
+     7
+    ],
+    [
+     "블루베리",
+     2,
+     6
+    ],
+    [
+     "올리브오일",
+     2,
+     6
+    ],
+    [
+     "꿀",
+     2,
+     6
+    ],
+    [
+     "키친타월",
+     1,
+     9
+    ],
+    [
+     "떡볶이·떡",
+     2,
+     5
+    ],
+    [
+     "로티세리 치킨",
+     1,
+     7
+    ],
+    [
+     "라면",
+     2,
+     4
+    ],
+    [
+     "핫도그",
+     0,
+     10
+    ],
+    [
+     "밀폐용기",
+     3,
+     1
+    ],
+    [
+     "초콜릿",
+     2,
+     4
+    ]
+   ]
+  },
+  {
+   "at": "2026-10-23",
+   "top": [
+    [
+     "치즈",
+     12,
+     59
+    ],
+    [
+     "계란",
+     5,
+     19
+    ],
+    [
+     "새우",
+     4,
+     20
+    ],
+    [
+     "피자",
+     4,
+     18
+    ],
+    [
+     "버터",
+     6,
+     12
+    ],
+    [
+     "냄비/프라이팬",
+     5,
+     11
+    ],
+    [
+     "아보카도",
+     5,
+     10
+    ],
+    [
+     "김치",
+     3,
+     10
+    ],
+    [
+     "딸기",
+     4,
+     6
+    ],
+    [
+     "세제",
+     5,
+     3
+    ],
+    [
+     "샐러드",
+     1,
+     14
+    ],
+    [
+     "그릭요거트",
+     2,
+     10
+    ],
+    [
+     "부채살",
+     2,
+     9
+    ],
+    [
+     "소불고기",
+     3,
+     5
+    ],
+    [
+     "연어",
+     2,
+     7
+    ],
+    [
+     "블루베리",
+     2,
+     6
+    ],
+    [
+     "올리브오일",
+     2,
+     6
+    ],
+    [
+     "꿀",
+     2,
+     6
+    ],
+    [
+     "키친타월",
+     1,
+     9
+    ],
+    [
+     "떡볶이·떡",
+     2,
+     5
+    ],
+    [
+     "로티세리 치킨",
+     1,
+     7
+    ],
+    [
+     "라면",
+     2,
+     4
+    ],
+    [
+     "핫도그",
+     0,
+     10
+    ],
+    [
+     "밀폐용기",
+     3,
+     1
+    ],
+    [
+     "초콜릿",
+     2,
+     4
+    ]
+   ]
+  },
+  {
+   "at": "2026-10-23",
    "top": [
     [
      "치즈",
