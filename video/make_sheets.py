@@ -2,7 +2,7 @@
 """영상에서 2초마다 가격표 영역을 잘라 중복 제거 후 3x4 시트로 묶음. 사용: make_sheets.py video.mp4 [outdir]"""
 import sys, os, glob, subprocess
 from PIL import Image, ImageDraw
-CROP="520:290:760:0"   # 1280x720 기준 오른쪽 위 가격표 오버레이
+CROP="520:300:760:0"   # 1280x720 기준 오른쪽 위 가격표 오버레이
 vid=sys.argv[1]; out=sys.argv[2] if len(sys.argv)>2 else os.path.join(os.path.dirname(vid),"sheets")
 cd=os.path.join(out,"crops"); os.makedirs(cd,exist_ok=True)
 for f in glob.glob(cd+"/*")+glob.glob(out+"/s_*.jpg"): os.remove(f)
