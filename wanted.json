@@ -105,11 +105,18 @@
    "comment_count": 0,
    "fetched": 0,
    "error": null
+  },
+  {
+   "at": "2026-10-29 09:06 KST",
+   "video": "lAKzKmh7gaw",
+   "comment_count": 0,
+   "fetched": 0,
+   "error": null
   }
  ],
  "items": {},
  "popular": {
-  "updated": "2026-10-27 09:18 KST",
+  "updated": "2026-10-29 09:06 KST",
   "videos": 126,
   "recent_videos": 126,
   "comments": 2435,
@@ -1044,38 +1051,10 @@
      }
     ],
     "usage": "영상·댓글에서 활용법 미확인",
-    "on_sale_now": true,
-    "sale_items": [
-     {
-      "code": "695501",
-      "name": "테크 울드라이 캡슐세제 50입",
-      "sale_price": 14990,
-      "discount": 4000,
-      "end": "11.01"
-     },
-     {
-      "code": "607206",
-      "name": "슈가버블 애플향 주방세제 4.0L + 940ML",
-      "sale_price": 9990,
-      "discount": 2800,
-      "end": "11.01"
-     }
-    ],
-    "origin_items": [
-     {
-      "code": "695501",
-      "name": "테크 울드라이 캡슐세제 50입",
-      "origin": "미확인",
-      "evidence": null
-     },
-     {
-      "code": "607206",
-      "name": "슈가버블 애플향 주방세제 4.0L + 940ML",
-      "origin": "국산·국내생산",
-      "evidence": "제조국 또는 원산지: 대한민국"
-     }
-    ],
-    "domestic": true,
+    "on_sale_now": false,
+    "sale_items": [],
+    "origin_items": [],
+    "domestic": false,
     "last_mentioned": "20261013"
    },
    {
@@ -1098,37 +1077,9 @@
      }
     ],
     "usage": "남은 고기와 함께 냉동 김치찜 밀키트로 만들어 두기 (영상 설명)",
-    "on_sale_now": true,
-    "sale_items": [
-     {
-      "code": "563542",
-      "name": "종가 포기김치 3KG",
-      "sale_price": 18990,
-      "discount": 4400,
-      "end": "11.01"
-     },
-     {
-      "code": "682484",
-      "name": "아워홈 갈치김치 1.6KG",
-      "sale_price": 14990,
-      "discount": 4000,
-      "end": "11.01"
-     }
-    ],
-    "origin_items": [
-     {
-      "code": "563542",
-      "name": "종가 포기김치 3KG",
-      "origin": "미확인",
-      "evidence": null
-     },
-     {
-      "code": "682484",
-      "name": "아워홈 갈치김치 1.6KG",
-      "origin": "미확인",
-      "evidence": null
-     }
-    ],
+    "on_sale_now": false,
+    "sale_items": [],
+    "origin_items": [],
     "domestic": false,
     "last_mentioned": "20261008"
    },
@@ -1204,24 +1155,9 @@
      }
     ],
     "usage": "도우를 냉장 숙성 후 에어프라이어로 굽는 법 소개 (영상 설명)",
-    "on_sale_now": true,
-    "sale_items": [
-     {
-      "code": "663486",
-      "name": "리스토란테 모짜렐라 피자 2,130G (355G X 6)",
-      "sale_price": 25490,
-      "discount": 4500,
-      "end": "11.01"
-     }
-    ],
-    "origin_items": [
-     {
-      "code": "663486",
-      "name": "리스토란테 모짜렐라 피자 2,130G (355G X 6)",
-      "origin": "미확인",
-      "evidence": null
-     }
-    ],
+    "on_sale_now": false,
+    "sale_items": [],
+    "origin_items": [],
     "domestic": false,
     "last_mentioned": "20261008"
    },
@@ -1297,24 +1233,9 @@
      }
     ],
     "usage": "영상·댓글에서 활용법 미확인",
-    "on_sale_now": true,
-    "sale_items": [
-     {
-      "code": "670208",
-      "name": "테팔 프라이팬 2P 22CM/28CM",
-      "sale_price": 63900,
-      "discount": 16000,
-      "end": "11.01"
-     }
-    ],
-    "origin_items": [
-     {
-      "code": "670208",
-      "name": "테팔 프라이팬 2P 22CM/28CM",
-      "origin": "수입",
-      "evidence": "제조국 또는 원산지: 프랑스"
-     }
-    ],
+    "on_sale_now": false,
+    "sale_items": [],
+    "origin_items": [],
     "domestic": false,
     "last_mentioned": "20261008"
    },
@@ -1546,37 +1467,9 @@
      }
     ],
     "usage": "영상·댓글에서 활용법 미확인",
-    "on_sale_now": true,
-    "sale_items": [
-     {
-      "code": "665140",
-      "name": "비비고 왕교자 1,925G",
-      "sale_price": 12990,
-      "discount": 2500,
-      "end": "11.01"
-     },
-     {
-      "code": "625256",
-      "name": "풀무원 얇은피 고기만두 1,320G",
-      "sale_price": 9990,
-      "discount": 2500,
-      "end": "11.01"
-     }
-    ],
-    "origin_items": [
-     {
-      "code": "665140",
-      "name": "비비고 왕교자 1,925G",
-      "origin": "미확인",
-      "evidence": null
-     },
-     {
-      "code": "625256",
-      "name": "풀무원 얇은피 고기만두 1,320G",
-      "origin": "미확인",
-      "evidence": null
-     }
-    ],
+    "on_sale_now": false,
+    "sale_items": [],
+    "origin_items": [],
     "domestic": false,
     "last_mentioned": "20261020"
    },
@@ -1678,24 +1571,9 @@
      }
     ],
     "usage": "영상·댓글에서 활용법 미확인",
-    "on_sale_now": true,
-    "sale_items": [
-     {
-      "code": "683369",
-      "name": "프레지오 로마냐 산지오베제 750ML",
-      "sale_price": 15990,
-      "discount": 4000,
-      "end": "11.01"
-     }
-    ],
-    "origin_items": [
-     {
-      "code": "683369",
-      "name": "프레지오 로마냐 산지오베제 750ML",
-      "origin": "미확인",
-      "evidence": null
-     }
-    ],
+    "on_sale_now": false,
+    "sale_items": [],
+    "origin_items": [],
     "domestic": false,
     "last_mentioned": "20261008"
    },
@@ -1771,10 +1649,38 @@
      }
     ],
     "usage": "영상·댓글에서 활용법 미확인",
-    "on_sale_now": false,
-    "sale_items": [],
-    "origin_items": [],
-    "domestic": false,
+    "on_sale_now": true,
+    "sale_items": [
+     {
+      "code": "610038",
+      "name": "미이랑 국내산 찹쌀 5KG",
+      "sale_price": 16990,
+      "discount": 2000,
+      "end": "11.08"
+     },
+     {
+      "code": "686497",
+      "name": "김화농협 오대쌀 10KG (등급: 상)",
+      "sale_price": 37490,
+      "discount": 2500,
+      "end": "11.08"
+     }
+    ],
+    "origin_items": [
+     {
+      "code": "610038",
+      "name": "미이랑 국내산 찹쌀 5KG",
+      "origin": "미확인",
+      "evidence": null
+     },
+     {
+      "code": "686497",
+      "name": "김화농협 오대쌀 10KG (등급: 상)",
+      "origin": "국산·국내생산",
+      "evidence": "원산지: 국내산(강원도 철원)"
+     }
+    ],
+    "domestic": true,
     "last_mentioned": "20261017"
    }
   ]
@@ -3342,6 +3248,266 @@
   },
   {
    "at": "2026-10-27",
+   "top": [
+    [
+     "치즈",
+     17,
+     58
+    ],
+    [
+     "세제",
+     23,
+     6
+    ],
+    [
+     "김치",
+     9,
+     33
+    ],
+    [
+     "버터",
+     14,
+     13
+    ],
+    [
+     "계란",
+     6,
+     25
+    ],
+    [
+     "피자",
+     6,
+     21
+    ],
+    [
+     "새우",
+     7,
+     16
+    ],
+    [
+     "그릭요거트",
+     5,
+     17
+    ],
+    [
+     "냄비/프라이팬",
+     6,
+     14
+    ],
+    [
+     "꿀",
+     4,
+     16
+    ],
+    [
+     "라면",
+     7,
+     6
+    ],
+    [
+     "소불고기",
+     4,
+     12
+    ],
+    [
+     "커클랜드 비타민/영양제",
+     6,
+     5
+    ],
+    [
+     "블루베리",
+     3,
+     13
+    ],
+    [
+     "아보카도",
+     5,
+     7
+    ],
+    [
+     "올리브오일",
+     5,
+     7
+    ],
+    [
+     "화장지",
+     6,
+     4
+    ],
+    [
+     "냉동 만두",
+     5,
+     6
+    ],
+    [
+     "닭가슴살",
+     5,
+     5
+    ],
+    [
+     "샐러드",
+     3,
+     10
+    ],
+    [
+     "우유",
+     3,
+     9
+    ],
+    [
+     "와인",
+     2,
+     10
+    ],
+    [
+     "척아이롤",
+     5,
+     0
+    ],
+    [
+     "트러플",
+     4,
+     3
+    ],
+    [
+     "쌀",
+     2,
+     9
+    ]
+   ]
+  },
+  {
+   "at": "2026-10-29",
+   "top": [
+    [
+     "치즈",
+     17,
+     58
+    ],
+    [
+     "세제",
+     23,
+     6
+    ],
+    [
+     "김치",
+     9,
+     33
+    ],
+    [
+     "버터",
+     14,
+     13
+    ],
+    [
+     "계란",
+     6,
+     25
+    ],
+    [
+     "피자",
+     6,
+     21
+    ],
+    [
+     "새우",
+     7,
+     16
+    ],
+    [
+     "그릭요거트",
+     5,
+     17
+    ],
+    [
+     "냄비/프라이팬",
+     6,
+     14
+    ],
+    [
+     "꿀",
+     4,
+     16
+    ],
+    [
+     "라면",
+     7,
+     6
+    ],
+    [
+     "소불고기",
+     4,
+     12
+    ],
+    [
+     "커클랜드 비타민/영양제",
+     6,
+     5
+    ],
+    [
+     "블루베리",
+     3,
+     13
+    ],
+    [
+     "아보카도",
+     5,
+     7
+    ],
+    [
+     "올리브오일",
+     5,
+     7
+    ],
+    [
+     "화장지",
+     6,
+     4
+    ],
+    [
+     "냉동 만두",
+     5,
+     6
+    ],
+    [
+     "닭가슴살",
+     5,
+     5
+    ],
+    [
+     "샐러드",
+     3,
+     10
+    ],
+    [
+     "우유",
+     3,
+     9
+    ],
+    [
+     "와인",
+     2,
+     10
+    ],
+    [
+     "척아이롤",
+     5,
+     0
+    ],
+    [
+     "트러플",
+     4,
+     3
+    ],
+    [
+     "쌀",
+     2,
+     9
+    ]
+   ]
+  },
+  {
+   "at": "2026-10-29",
    "top": [
     [
      "치즈",

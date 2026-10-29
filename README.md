@@ -2,7 +2,7 @@
 
 - `python3 fetch.py` : 온라인(costco.co.kr 공개 검색 API) 수집 → data.json, 이어서 video_store.py 실행 → store_data.json, 그리고 index.html 생성(데이터 인라인, 파일 하나로 열림).
 - 댓글: comments.py 가 videos.json 영상 댓글을 받아 wanted.json 에 누적(실행마다 runs 기록).
-- 매장 탭은 **매장 가격표를 직접 촬영한 영상**에서 읽은 값만 사용합니다. 현재: CoReview N86uCGbvysU (공세점, 10/27 업로드). 종료일이 지난 품목은 자동 제외.
+- 매장 탭은 **매장 가격표를 직접 촬영한 영상**에서 읽은 값만 사용합니다. 현재: CoReview lAKzKmh7gaw (공세점, 10/28 업로드). 종료일이 지난 품목은 자동 제외.
 
 ## 새 영상 넣기 (최신 영상 하나만 유지)
 1. 영상 받기: `yt-dlp -f "bv*[height<=720]+ba/b" -o /workspace/costco/video.mp4 <URL>`
