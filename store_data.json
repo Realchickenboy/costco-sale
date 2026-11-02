@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-01 09:03 KST",
- "count": 58,
- "dropped_expired": 0,
+ "updated": "2026-11-02 09:38 KST",
+ "count": 57,
+ "dropped_expired": 1,
  "period": [
   "10.19",
   "11.23"
@@ -18,7 +18,7 @@
   {
    "code": "574328",
    "name": "한우 냉동 사골 2.2KG",
-   "category": "기타",
+   "category": "정육·수산·신선",
    "regular_price": 16990,
    "discount": 5000,
    "sale_price": 11990,
@@ -28,24 +28,6 @@
    "source": "CoReview 영상(공세점, 10/31 업로드)",
    "url": "https://www.youtube.com/watch?v=G5rb-9jKLcA&t=74s",
    "video_time": "1:14",
-   "image": null,
-   "status": "확인",
-   "note": null,
-   "image_src": null
-  },
-  {
-   "code": "693780",
-   "name": "루꼴라 샐러드 500G (국내산)",
-   "category": "정육·수산·신선",
-   "regular_price": 8990,
-   "discount": 2000,
-   "sale_price": 6990,
-   "discount_rate": 22.2,
-   "start": "10.26",
-   "end": "11.01",
-   "source": "CoReview 영상(공세점, 10/31 업로드)",
-   "url": "https://www.youtube.com/watch?v=G5rb-9jKLcA&t=84s",
-   "video_time": "1:24",
    "image": null,
    "status": "확인",
    "note": null,
@@ -91,7 +73,7 @@
   {
    "code": "694305",
    "name": "NERDS 구미 클러스터 524G",
-   "category": "기타",
+   "category": "가공·간편식",
    "regular_price": 13990,
    "discount": 3000,
    "sale_price": 10990,
@@ -146,7 +128,7 @@
   {
    "code": "1927990",
    "name": "비비고 참기름 1L",
-   "category": "기타",
+   "category": "가공·간편식",
    "regular_price": 14790,
    "discount": 3300,
    "sale_price": 11490,
@@ -164,7 +146,7 @@
   {
    "code": "620217",
    "name": "크로넨버그 1664 블랑 캔맥주 330ML X 12캔",
-   "category": "기타",
+   "category": "음료·커피",
    "regular_price": 14790,
    "discount": 4300,
    "sale_price": 10490,
@@ -201,7 +183,7 @@
   {
    "code": "697190",
    "name": "백설 멸치디포리 1분링 4G X 100",
-   "category": "기타",
+   "category": "가공·간편식",
    "regular_price": 14990,
    "discount": 3000,
    "sale_price": 11990,
@@ -219,7 +201,7 @@
   {
    "code": "634759",
    "name": "LOACKER 미니 웨하스 믹스 800G",
-   "category": "기타",
+   "category": "가공·간편식",
    "regular_price": 22990,
    "discount": 5000,
    "sale_price": 17990,
@@ -313,7 +295,7 @@
   {
    "code": "680553",
    "name": "백설 하선정 멸치액젓 1KG X 3",
-   "category": "기타",
+   "category": "가공·간편식",
    "regular_price": 13990,
    "discount": 3000,
    "sale_price": 10990,
@@ -331,7 +313,7 @@
   {
    "code": "658810",
    "name": "신라명과 프리미엄 탕종식빵 880G",
-   "category": "기타",
+   "category": "가공·간편식",
    "regular_price": 9790,
    "discount": 2000,
    "sale_price": 7790,
@@ -349,7 +331,7 @@
   {
    "code": "675042",
    "name": "탕종모카빵 3CT",
-   "category": "음료·커피",
+   "category": "가공·간편식",
    "regular_price": 11990,
    "discount": 2400,
    "sale_price": 9590,
@@ -367,7 +349,7 @@
   {
    "code": "695338",
    "name": "크라운 쿠크다스 867G (289G X 3)",
-   "category": "기타",
+   "category": "가공·간편식",
    "regular_price": 10990,
    "discount": 2200,
    "sale_price": 8790,
@@ -385,7 +367,7 @@
   {
    "code": "632138",
    "name": "칠성사이다 190ML X 30캔",
-   "category": "기타",
+   "category": "음료·커피",
    "regular_price": 13990,
    "discount": 3000,
    "sale_price": 10990,
@@ -403,7 +385,7 @@
   {
    "code": "1945800",
    "name": "WITOR'S 이탈리안 트러플 1KG",
-   "category": "기타",
+   "category": "가공·간편식",
    "regular_price": 22990,
    "discount": 5000,
    "sale_price": 17990,
@@ -421,7 +403,7 @@
   {
    "code": "683575",
    "name": "양반 그릴리 부대찌개 690G X 2세트",
-   "category": "기타",
+   "category": "가공·간편식",
    "regular_price": 14990,
    "discount": 3200,
    "sale_price": 11790,
@@ -458,7 +440,7 @@
   {
    "code": "674546",
    "name": "아이리스 포켓용 핫팩 100G X 60개",
-   "category": "기타",
+   "category": "생활·세제",
    "regular_price": 17990,
    "discount": 4000,
    "sale_price": 13990,
@@ -477,7 +459,7 @@
   {
    "code": "669870",
    "name": "인라이프 부착용 핫팩 50G X 60개",
-   "category": "기타",
+   "category": "생활·세제",
    "regular_price": 12990,
    "discount": 3000,
    "sale_price": 9990,
@@ -496,7 +478,7 @@
   {
    "code": "",
    "name": "BOTTOOM 바툼 욕실 온풍기 BTF-4001",
-   "category": "기타",
+   "category": "가전·침구",
    "regular_price": 99990,
    "discount": 20000,
    "sale_price": 79990,
@@ -513,7 +495,7 @@
   {
    "code": "695136",
    "name": "오드앵글 테이블 히터 CTH613",
-   "category": "기타",
+   "category": "가전·침구",
    "regular_price": 119990,
    "discount": 24000,
    "sale_price": 95990,
@@ -551,7 +533,7 @@
   {
    "code": "692838",
    "name": "어노브 트리트먼트 500ML X 2",
-   "category": "기타",
+   "category": "생활·세제",
    "regular_price": 33990,
    "discount": 7000,
    "sale_price": 26990,
@@ -589,7 +571,7 @@
   {
    "code": "620843",
    "name": "헤라 선 메이트 크림 70ML X 2",
-   "category": "기타",
+   "category": "생활·세제",
    "regular_price": 39990,
    "discount": 8000,
    "sale_price": 31990,
@@ -608,7 +590,7 @@
   {
    "code": "671325",
    "name": "레드씰 프로폴리스 민트치약 160G X 5개",
-   "category": "기타",
+   "category": "생활·세제",
    "regular_price": 24490,
    "discount": 5000,
    "sale_price": 19490,
@@ -627,7 +609,7 @@
   {
    "code": "695133",
    "name": "케어팟 가습기 스탠드 4L MS043 LIGHTING PLUS",
-   "category": "기타",
+   "category": "가전·침구",
    "regular_price": 189990,
    "discount": 40000,
    "sale_price": 149990,
@@ -683,7 +665,7 @@
   {
    "code": "783979",
    "name": "뉴트리플랜 뉴트리트릿 닭안심 동결건조 간식 300G",
-   "category": "기타",
+   "category": "반려동물",
    "regular_price": 18990,
    "discount": 4200,
    "sale_price": 14790,
@@ -719,7 +701,7 @@
   {
    "code": "663760",
    "name": "쉬크 인튜이션 제모기 세트 1+9",
-   "category": "기타",
+   "category": "생활·세제",
    "regular_price": 25490,
    "discount": 5500,
    "sale_price": 19990,
@@ -738,7 +720,7 @@
   {
    "code": "",
    "name": "청정원 순창 100% 국산 고추장 1KG X 2",
-   "category": "기타",
+   "category": "가공·간편식",
    "regular_price": 20990,
    "discount": 5000,
    "sale_price": 15990,
@@ -755,7 +737,7 @@
   {
    "code": "701306",
    "name": "크리넥스 수프림플러스 화장지 40M X 30롤 3겹",
-   "category": "기타",
+   "category": "생활·세제",
    "regular_price": 29990,
    "discount": 6500,
    "sale_price": 23490,
@@ -774,7 +756,7 @@
   {
    "code": "660439",
    "name": "세이프라이프 소화기 Z07 자동차/캠핑/가정",
-   "category": "기타",
+   "category": "생활·세제",
    "regular_price": 36990,
    "discount": 7500,
    "sale_price": 29490,
@@ -793,7 +775,7 @@
   {
    "code": "627620",
    "name": "불스원 3 IN 1 에탄올 워셔 1.8L X 3개",
-   "category": "기타",
+   "category": "생활·세제",
    "regular_price": 11490,
    "discount": 2500,
    "sale_price": 8990,
@@ -812,7 +794,7 @@
   {
    "code": "624655",
    "name": "BREF 변기세정볼(레몬) 50G X 12입",
-   "category": "정육·수산·신선",
+   "category": "생활·세제",
    "regular_price": 19990,
    "discount": 4200,
    "sale_price": 15790,
@@ -831,7 +813,7 @@
   {
    "code": "679589",
    "name": "디펜드 안심 성인용기저귀 32개 (남녀공용)",
-   "category": "기타",
+   "category": "생활·세제",
    "regular_price": 26490,
    "discount": 6500,
    "sale_price": 19990,
@@ -868,7 +850,7 @@
   {
    "code": "686786",
    "name": "닌자 4 IN 1 블렌더 (갈기,채썰기,편썰기,푸드프로세싱)",
-   "category": "기타",
+   "category": "가전·침구",
    "regular_price": 246900,
    "discount": 50000,
    "sale_price": 196900,
@@ -924,7 +906,7 @@
   {
    "code": "686408",
    "name": "카밀 핸드크림 133MLX2 + 75ML + 30ML",
-   "category": "기타",
+   "category": "생활·세제",
    "regular_price": 12990,
    "discount": 3000,
    "sale_price": 9990,
@@ -943,7 +925,7 @@
   {
    "code": "698029",
    "name": "좋은느낌 유기농순면 맥시슬림 대형 64개",
-   "category": "기타",
+   "category": "생활·세제",
    "regular_price": 16990,
    "discount": 3500,
    "sale_price": 13490,
@@ -961,7 +943,7 @@
   {
    "code": "599838",
    "name": "비겐 크림톤 염모제 X2팩",
-   "category": "기타",
+   "category": "생활·세제",
    "regular_price": 16990,
    "discount": 4000,
    "sale_price": 12990,
@@ -1017,7 +999,7 @@
   {
    "code": "675037",
    "name": "셀리맥스 어성초 지우개패드 80매 X 2",
-   "category": "기타",
+   "category": "생활·세제",
    "regular_price": 22990,
    "discount": 5000,
    "sale_price": 17990,
@@ -1036,7 +1018,7 @@
   {
    "code": "696138",
    "name": "엔빈 양방 두피케어 샴푸 1.5L",
-   "category": "기타",
+   "category": "생활·세제",
    "regular_price": 19990,
    "discount": 4000,
    "sale_price": 15990,
@@ -1055,7 +1037,7 @@
   {
    "code": "683415",
    "name": "테라브레스 오랄린스 1L X 2개",
-   "category": "기타",
+   "category": "생활·세제",
    "regular_price": 33990,
    "discount": 7000,
    "sale_price": 26990,
