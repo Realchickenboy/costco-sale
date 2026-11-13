@@ -11,7 +11,11 @@ def kst(s):
 def get(page):
     q=urllib.parse.urlencode({"query":":relevance:allCategories:SpecialPriceOffers","pageSize":100,"currentPage":page,"lang":"ko","curr":"KRW","fields":"FULL"})
     r=urllib.request.Request(API+"?"+q,headers={"User-Agent":"Mozilla/5.0","Accept":"application/json"})
-    return json.load(urllib.request.urlopen(r,timeout=30))
+    for t in range(8):  # 간헐적 404/타임아웃 재시도
+        try: return json.load(urllib.request.urlopen(r,timeout=30))
+        except Exception as e:
+            print("retry",page,t,e); time.sleep(3)
+    raise RuntimeError("API 실패")
 items={};page=0
 while True:
     d=get(page)

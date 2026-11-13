@@ -8,7 +8,11 @@ M=json.load(open(os.path.join(H,"img_map.json"))) if os.path.exists(os.path.join
 os.makedirs(os.path.join(H,"img"),exist_ok=True)
 def official(code):
     u=B+"/rest/v2/korea/products/search?"+urllib.parse.urlencode({"query":code,"pageSize":10,"lang":"ko","curr":"KRW","fields":"FULL"})
-    d=json.load(urllib.request.urlopen(urllib.request.Request(u,headers={"User-Agent":"Mozilla/5.0"}),timeout=30))
+    d=None
+    for t in range(5):  # 공식몰 API 간헐적 404 재시도
+        try: d=json.load(urllib.request.urlopen(urllib.request.Request(u,headers={"User-Agent":"Mozilla/5.0"}),timeout=30)); break
+        except Exception: time.sleep(2)
+    if d is None: raise RuntimeError("API 실패")
     for p in d.get("products",[]):
         if p.get("code")==code:
             im=next((i["url"] for i in p.get("images",[]) if i.get("format")=="product"),None) or next((i["url"] for i in p.get("images",[])),None)
