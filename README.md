@@ -25,3 +25,7 @@
 - 사진은 store_data.json 의 공식 사진만 `poster_img/` 에 미리 받아 base64로 넣습니다(영상 캡처 사용 안 함, '참고 사진' 표시 유지).
 - 결과: `poster.png`(원본, 저장소에 안 올림), `poster.webp`(웹용, 사이트 맨 위 미리보기·저장 링크), `poster_meta.json`(가로·세로). index.html 에서는 `poster.webp?v=빌드시각` 으로 캐시를 갱신합니다.
 - 단독 실행: `python3 poster2.py` (headless Chrome 필요).
+
+## 국산·국내생산 섹션 (domestic.py)
+- `fetch.py` 가 images.py 다음에 실행. 근거: 가격표 상품명의 '원산지:국내산'/'국산' 표기, 또는 costco.co.kr 상품상세 API의 원산지·제조국 = 대한민국. 근거 없으면 표시 안 함. 결과 캐시: origin_cache.json.
+- 인기 품목 수집(/workspace/yt): 이 yt-dlp 버전은 `ytsearchdate` 미지원 → `ytsearch30:<검색어>` 사용 후 새 ID를 ids.txt 에 추가, `bash dl.sh`, `python3 analyze.py`.
