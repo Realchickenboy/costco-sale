@@ -41,6 +41,7 @@ here=os.path.dirname(os.path.abspath(__file__))
 json.dump(out,open(os.path.join(here,"data.json"),"w"),ensure_ascii=False,indent=1)
 subprocess.run([sys.executable,os.path.join(here,"video_store.py")],check=True)
 subprocess.run([sys.executable,os.path.join(here,"images.py")],check=True)
+subprocess.run([sys.executable,os.path.join(here,"domestic.py")],check=True)  # 국산 근거(가격표 표기·공식몰 원산지)
 subprocess.run([sys.executable,os.path.join(here,"poster2.py")],cwd=here)  # 전단지 poster.png/webp 재생성
 subprocess.run([sys.executable,os.path.join(here,"comments.py")])
 if os.path.exists("/workspace/yt/popular_raw.json"): subprocess.run([sys.executable,os.path.join(here,"popular_build.py")])

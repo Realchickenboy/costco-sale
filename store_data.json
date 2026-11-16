@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-13 09:20 KST",
- "count": 70,
- "dropped_expired": 1,
+ "updated": "2026-11-16 09:51 KST",
+ "count": 69,
+ "dropped_expired": 2,
  "period": [
   "10.19",
   "11.23"
@@ -18,7 +18,7 @@
   {
    "code": "664487",
    "name": "HAAGEN-DAZS 스틱바 80ML X 10CT",
-   "category": "기타",
+   "category": "가공·간편식",
    "regular_price": 29790,
    "discount": 6300,
    "sale_price": 23490,
@@ -31,12 +31,14 @@
    "image": null,
    "status": "확인",
    "note": null,
-   "image_src": null
+   "image_src": null,
+   "origin": null,
+   "origin_ev": null
   },
   {
    "code": "696952",
    "name": "쿡스타 슈퍼그레인 파이브 100G X 10",
-   "category": "기타",
+   "category": "가공·간편식",
    "regular_price": 19990,
    "discount": 4000,
    "sale_price": 15990,
@@ -50,7 +52,9 @@
    "status": "미확인",
    "note": "정상가 일부 가려짐(19,990으로 읽음, 할인액·판매가와 일치)",
    "image_src": "코스트코 공식",
-   "image_url_src": "https://www.costco.co.kr/Foods/RiceGrains/Grains/CookStar-Super-Grain-Five-100g-x-10/p/696952"
+   "image_url_src": "https://www.costco.co.kr/Foods/RiceGrains/Grains/CookStar-Super-Grain-Five-100g-x-10/p/696952",
+   "origin": null,
+   "origin_ev": null
   },
   {
    "code": "272958",
@@ -69,7 +73,9 @@
    "status": "확인",
    "note": null,
    "image_src": "코스트코 공식",
-   "image_url_src": "https://www.costco.co.kr/Foods/SaucesCondiments/SaucesDressings/-127kg-x-3/p/272958"
+   "image_url_src": "https://www.costco.co.kr/Foods/SaucesCondiments/SaucesDressings/-127kg-x-3/p/272958",
+   "origin": null,
+   "origin_ev": null
   },
   {
    "code": "671104",
@@ -87,7 +93,9 @@
    "image": null,
    "status": "확인",
    "note": null,
-   "image_src": null
+   "image_src": null,
+   "origin": null,
+   "origin_ev": null
   },
   {
    "code": "574328",
@@ -105,7 +113,9 @@
    "image": null,
    "status": "확인",
    "note": null,
-   "image_src": null
+   "image_src": null,
+   "origin": null,
+   "origin_ev": null
   },
   {
    "code": "692424",
@@ -123,7 +133,9 @@
    "image": null,
    "status": "확인",
    "note": null,
-   "image_src": null
+   "image_src": null,
+   "origin": null,
+   "origin_ev": null
   },
   {
    "code": "658810",
@@ -141,7 +153,9 @@
    "image": null,
    "status": "확인",
    "note": null,
-   "image_src": null
+   "image_src": null,
+   "origin": null,
+   "origin_ev": null
   },
   {
    "code": "675042",
@@ -159,7 +173,9 @@
    "image": null,
    "status": "확인",
    "note": null,
-   "image_src": null
+   "image_src": null,
+   "origin": null,
+   "origin_ev": null
   },
   {
    "code": "567723",
@@ -177,12 +193,14 @@
    "image": null,
    "status": "확인",
    "note": null,
-   "image_src": null
+   "image_src": null,
+   "origin": "국산·국내생산",
+   "origin_ev": "매장 가격표 표기: 원산지 국내산"
   },
   {
    "code": "655047",
    "name": "속초식명태초무침 명태원산지:미국산 1.2KG",
-   "category": "기타",
+   "category": "가공·간편식",
    "regular_price": 26990,
    "discount": 5400,
    "sale_price": 21590,
@@ -195,7 +213,9 @@
    "image": null,
    "status": "확인",
    "note": null,
-   "image_src": null
+   "image_src": null,
+   "origin": null,
+   "origin_ev": null
   },
   {
    "code": "685525",
@@ -213,7 +233,9 @@
    "image": null,
    "status": "확인",
    "note": null,
-   "image_src": null
+   "image_src": null,
+   "origin": null,
+   "origin_ev": null
   },
   {
    "code": "681422",
@@ -231,7 +253,9 @@
    "image": null,
    "status": "확인",
    "note": null,
-   "image_src": null
+   "image_src": null,
+   "origin": null,
+   "origin_ev": null
   },
   {
    "code": "1927990",
@@ -249,7 +273,9 @@
    "image": null,
    "status": "확인",
    "note": null,
-   "image_src": null
+   "image_src": null,
+   "origin": null,
+   "origin_ev": null
   },
   {
    "code": "620217",
@@ -267,7 +293,9 @@
    "image": null,
    "status": "확인",
    "note": null,
-   "image_src": null
+   "image_src": null,
+   "origin": null,
+   "origin_ev": null
   },
   {
    "code": "643170",
@@ -286,25 +314,9 @@
    "status": "미확인",
    "note": "시작일 일부 흐림(10/26으로 읽음)",
    "image_src": "코스트코 공식",
-   "image_url_src": "https://www.costco.co.kr/Foods/Snack/CandyGum/Mamas-Choice-Buttery-Roasted-Squid-67g-x-8/p/643170"
-  },
-  {
-   "code": "608846",
-   "name": "백설 그릴 후랑크 소시지 300G X 4",
-   "category": "정육·수산·신선",
-   "regular_price": 15790,
-   "discount": 3200,
-   "sale_price": 12590,
-   "discount_rate": 20.3,
-   "start": "11.09",
-   "end": "11.15",
-   "source": "CoReview 영상(공세점, 11/13 업로드)",
-   "url": "https://www.youtube.com/watch?v=5n4wm5F8ArA&t=120s",
-   "video_time": "2:00",
-   "image": null,
-   "status": "확인",
-   "note": null,
-   "image_src": null
+   "image_url_src": "https://www.costco.co.kr/Foods/Snack/CandyGum/Mamas-Choice-Buttery-Roasted-Squid-67g-x-8/p/643170",
+   "origin": null,
+   "origin_ev": null
   },
   {
    "code": "693727",
@@ -323,7 +335,9 @@
    "status": "확인",
    "note": null,
    "image_src": "코스트코 공식",
-   "image_url_src": "https://www.costco.co.kr/HealthSupplement/Health/Labnosh-Slim-Shake-45g-x-14-Chocolate/p/693727"
+   "image_url_src": "https://www.costco.co.kr/HealthSupplement/Health/Labnosh-Slim-Shake-45g-x-14-Chocolate/p/693727",
+   "origin": null,
+   "origin_ev": null
   },
   {
    "code": "640833",
@@ -342,7 +356,9 @@
    "status": "미확인",
    "note": "상품번호 일부 흐림(640833으로 읽음)·상품명 끝 글자 가려짐·종료일 일부 흐림(11/22로 읽음)",
    "image_src": "코스트코 공식",
-   "image_url_src": "https://www.costco.co.kr/Foods/Dried-Products/LaverSeaweed/C-WEED-Seaweed-Chips-with-Rice-250g/p/640833"
+   "image_url_src": "https://www.costco.co.kr/Foods/Dried-Products/LaverSeaweed/C-WEED-Seaweed-Chips-with-Rice-250g/p/640833",
+   "origin": null,
+   "origin_ev": null
   },
   {
    "code": "785517",
@@ -361,12 +377,14 @@
    "status": "확인",
    "note": null,
    "image_src": "코스트코 공식",
-   "image_url_src": "https://www.costco.co.kr/Foods/Snack/CandyGum/Haribo-Goldbaren-Jelly-1285g/p/785517"
+   "image_url_src": "https://www.costco.co.kr/Foods/Snack/CandyGum/Haribo-Goldbaren-Jelly-1285g/p/785517",
+   "origin": null,
+   "origin_ev": null
   },
   {
    "code": "610193",
    "name": "센트룸멀티비타민 실버맨, 우먼 112CT",
-   "category": "기타",
+   "category": "뷰티·건강",
    "regular_price": 35990,
    "discount": 7200,
    "sale_price": 28790,
@@ -380,12 +398,14 @@
    "status": "확인",
    "note": null,
    "image_src": "코스트코 공식",
-   "image_url_src": "https://www.costco.co.kr/HealthSupplement/VitaminMineral/Multi-Vitamin/Centrum-Silver-Multi-Vitamin-112ct-Men/p/610193"
+   "image_url_src": "https://www.costco.co.kr/HealthSupplement/VitaminMineral/Multi-Vitamin/Centrum-Silver-Multi-Vitamin-112ct-Men/p/610193",
+   "origin": null,
+   "origin_ev": null
   },
   {
    "code": "647881",
    "name": "샘표 양조간장 701 1.7L X 2",
-   "category": "기타",
+   "category": "가공·간편식",
    "regular_price": 22790,
    "discount": 4600,
    "sale_price": 18190,
@@ -398,12 +418,14 @@
    "image": null,
    "status": "확인",
    "note": null,
-   "image_src": null
+   "image_src": null,
+   "origin": null,
+   "origin_ev": null
   },
   {
    "code": "1901817",
    "name": "THERMOFLASK 보온보냉병 2PK, 950ML",
-   "category": "기타",
+   "category": "주방·수납·가구",
    "regular_price": 25990,
    "discount": 5500,
    "sale_price": 20490,
@@ -417,12 +439,14 @@
    "status": "확인",
    "note": null,
    "image_src": "코스트코 공식",
-   "image_url_src": "https://www.costco.co.kr/HomeKitchen/Dining/Thermal/Thermoflask-Thermal-Bottle-2PK-950ml/p/1901817"
+   "image_url_src": "https://www.costco.co.kr/HomeKitchen/Dining/Thermal/Thermoflask-Thermal-Bottle-2PK-950ml/p/1901817",
+   "origin": "수입",
+   "origin_ev": "제조국 또는 원산지: 중국"
   },
   {
    "code": "665259",
    "name": "SIDIZ 베이직 사무용의자",
-   "category": "기타",
+   "category": "주방·수납·가구",
    "regular_price": 219990,
    "discount": 44000,
    "sale_price": 175990,
@@ -436,12 +460,14 @@
    "status": "확인",
    "note": null,
    "image_src": "코스트코 공식",
-   "image_url_src": "https://www.costco.co.kr/FurnitureBeddingHome/Office-Furniture/Office-Chairs/Sidiz-Basic-Office-Chair/p/665259"
+   "image_url_src": "https://www.costco.co.kr/FurnitureBeddingHome/Office-Furniture/Office-Chairs/Sidiz-Basic-Office-Chair/p/665259",
+   "origin": "수입",
+   "origin_ev": "제조국 또는 원산지: 베트남"
   },
   {
    "code": "697190",
    "name": "백설 멀치디포리 1분링 4G X 100",
-   "category": "기타",
+   "category": "가공·간편식",
    "regular_price": 14990,
    "discount": 3000,
    "sale_price": 11990,
@@ -454,12 +480,14 @@
    "image": null,
    "status": "미확인",
    "note": "정상가 끝자리 일부 가려짐(14,990으로 읽음)",
-   "image_src": null
+   "image_src": null,
+   "origin": null,
+   "origin_ev": null
   },
   {
    "code": "670272",
    "name": "MAMA'S CHOICE 바삭한닭껍질후라이드 200G",
-   "category": "기타",
+   "category": "가공·간편식",
    "regular_price": 13990,
    "discount": 3000,
    "sale_price": 10990,
@@ -473,7 +501,9 @@
    "status": "확인",
    "note": null,
    "image_src": "코스트코 공식",
-   "image_url_src": "https://www.costco.co.kr/Foods/Snack/Mamas-Choice-Fried-Chicken-Skin-Chips-200g/p/670272"
+   "image_url_src": "https://www.costco.co.kr/Foods/Snack/Mamas-Choice-Fried-Chicken-Skin-Chips-200g/p/670272",
+   "origin": null,
+   "origin_ev": null
   },
   {
    "code": "",
@@ -490,7 +520,9 @@
    "video_time": "3:18",
    "image": null,
    "status": "미확인",
-   "note": "상품번호 첫 글자 가려짐(593397 또는 693397), 사진 매칭 안 함"
+   "note": "상품번호 첫 글자 가려짐(593397 또는 693397), 사진 매칭 안 함",
+   "origin": "국산·국내생산",
+   "origin_ev": "매장 가격표 상품명에 '국산' 표기"
   },
   {
    "code": "692889",
@@ -509,12 +541,14 @@
    "status": "확인",
    "note": null,
    "image_src": "코스트코 공식",
-   "image_url_src": "https://www.costco.co.kr/Foods/CoffeeTeaDrink/Capsule-Coffee/Caleo-Coffee-Capsule-100p-Nespresso-Compatible/p/692889"
+   "image_url_src": "https://www.costco.co.kr/Foods/CoffeeTeaDrink/Capsule-Coffee/Caleo-Coffee-Capsule-100p-Nespresso-Compatible/p/692889",
+   "origin": null,
+   "origin_ev": null
   },
   {
    "code": "665739",
    "name": "해리농협 천만금탈수천일염 5KG",
-   "category": "기타",
+   "category": "가공·간편식",
    "regular_price": 10990,
    "discount": 2200,
    "sale_price": 8790,
@@ -527,12 +561,14 @@
    "image": null,
    "status": "확인",
    "note": null,
-   "image_src": null
+   "image_src": null,
+   "origin": null,
+   "origin_ev": null
   },
   {
    "code": "663497",
    "name": "SILK THERAPY 골든앰플헤어에센스 180ML + 60ML",
-   "category": "기타",
+   "category": "뷰티·건강",
    "regular_price": 29990,
    "discount": 7000,
    "sale_price": 22990,
@@ -546,12 +582,14 @@
    "status": "확인",
    "note": null,
    "image_src": "코스트코 공식",
-   "image_url_src": "https://www.costco.co.kr/BeautyHouseholdPersonal-Care/Hair-Care/TreatmentDyeing/Silk-Therapy-Golden-Hair-Essence-180ml-60ml/p/663497"
+   "image_url_src": "https://www.costco.co.kr/BeautyHouseholdPersonal-Care/Hair-Care/TreatmentDyeing/Silk-Therapy-Golden-Hair-Essence-180ml-60ml/p/663497",
+   "origin": "국산·국내생산",
+   "origin_ev": "코스트코 공식몰 제조국: 대한민국"
   },
   {
    "code": "683635",
    "name": "PHYSIOGEL 피지오겔 DMT 포맨 100ML X 2",
-   "category": "기타",
+   "category": "뷰티·건강",
    "regular_price": 25990,
    "discount": 6000,
    "sale_price": 19990,
@@ -565,12 +603,14 @@
    "status": "확인",
    "note": null,
    "image_src": "코스트코 공식",
-   "image_url_src": "https://www.costco.co.kr/BeautyHouseholdPersonal-Care/Beauty/Mens-Skin-Care/Physiogel-DMT-For-Men-100ml-x-2/p/683635"
+   "image_url_src": "https://www.costco.co.kr/BeautyHouseholdPersonal-Care/Beauty/Mens-Skin-Care/Physiogel-DMT-For-Men-100ml-x-2/p/683635",
+   "origin": "국산·국내생산",
+   "origin_ev": "코스트코 공식몰 제조국: 대한민국"
   },
   {
    "code": "689161",
    "name": "PHYSIOGEL 피지오겔 DMT PRO B5 크림 180ML X 2",
-   "category": "기타",
+   "category": "뷰티·건강",
    "regular_price": 49990,
    "discount": 11000,
    "sale_price": 38990,
@@ -584,12 +624,14 @@
    "status": "확인",
    "note": null,
    "image_src": "코스트코 공식",
-   "image_url_src": "https://www.costco.co.kr/BeautyHouseholdPersonal-Care/Beauty/LotionCream/Physiogel-DMT-PRO-B5-Cream-180ml-x-2/p/689161"
+   "image_url_src": "https://www.costco.co.kr/BeautyHouseholdPersonal-Care/Beauty/LotionCream/Physiogel-DMT-PRO-B5-Cream-180ml-x-2/p/689161",
+   "origin": "수입",
+   "origin_ev": "제조국: 태국"
   },
   {
    "code": "673683",
    "name": "PHYSIOGEL 피지오겔 데일리뮨 세럼 30ML",
-   "category": "기타",
+   "category": "뷰티·건강",
    "regular_price": 58990,
    "discount": 12000,
    "sale_price": 46990,
@@ -603,12 +645,14 @@
    "status": "확인",
    "note": null,
    "image_src": "코스트코 공식",
-   "image_url_src": "https://www.costco.co.kr/BeautyHouseholdPersonal-Care/Beauty/EssenceSerumAmpoule/Physiogel-Dailimune-Serum-30ml-Essence-50ml/p/673683"
+   "image_url_src": "https://www.costco.co.kr/BeautyHouseholdPersonal-Care/Beauty/EssenceSerumAmpoule/Physiogel-Dailimune-Serum-30ml-Essence-50ml/p/673683",
+   "origin": "국산·국내생산",
+   "origin_ev": "코스트코 공식몰 제조국: 대한민국"
   },
   {
    "code": "665914",
    "name": "LG생활건강 태극제약 도미나스 기미케어 크림EX 50G + 15G X 3",
-   "category": "기타",
+   "category": "뷰티·건강",
    "regular_price": 47990,
    "discount": 10000,
    "sale_price": 37990,
@@ -622,12 +666,14 @@
    "status": "확인",
    "note": null,
    "image_src": "코스트코 공식",
-   "image_url_src": "https://www.costco.co.kr/BeautyHouseholdPersonal-Care/Beauty/LotionCream/Dominas-Freckle-Care-Cream-EX-50g-15g-X-3/p/665914"
+   "image_url_src": "https://www.costco.co.kr/BeautyHouseholdPersonal-Care/Beauty/LotionCream/Dominas-Freckle-Care-Cream-EX-50g-15g-X-3/p/665914",
+   "origin": "국산·국내생산",
+   "origin_ev": "코스트코 공식몰 제조국: 대한민국"
   },
   {
    "code": "679727",
    "name": "SU:M 37 숨 37 시크릿 에센스 80ML + 30ML",
-   "category": "기타",
+   "category": "뷰티·건강",
    "regular_price": 48990,
    "discount": 11000,
    "sale_price": 37990,
@@ -641,7 +687,9 @@
    "status": "확인",
    "note": null,
    "image_src": "코스트코 공식",
-   "image_url_src": "https://www.costco.co.kr/BeautyHouseholdPersonal-Care/Beauty/EssenceSerumAmpoule/Sum-37-Secret-Essence-80ml-30ml/p/679727"
+   "image_url_src": "https://www.costco.co.kr/BeautyHouseholdPersonal-Care/Beauty/EssenceSerumAmpoule/Sum-37-Secret-Essence-80ml-30ml/p/679727",
+   "origin": "국산·국내생산",
+   "origin_ev": "코스트코 공식몰 제조국: 대한민국"
   },
   {
    "code": "695843",
@@ -660,7 +708,9 @@
    "status": "확인",
    "note": null,
    "image_src": "코스트코 공식",
-   "image_url_src": "https://www.costco.co.kr/BeautyHouseholdPersonal-Care/Beauty/LotionCream/Aestura-Atobarrier-365-Lotion-Plus-180ml-x-2-Body-Lotion-50ml-x-2/p/695843"
+   "image_url_src": "https://www.costco.co.kr/BeautyHouseholdPersonal-Care/Beauty/LotionCream/Aestura-Atobarrier-365-Lotion-Plus-180ml-x-2-Body-Lotion-50ml-x-2/p/695843",
+   "origin": "국산·국내생산",
+   "origin_ev": "코스트코 공식몰 제조국: 대한민국"
   },
   {
    "code": "675037",
@@ -679,7 +729,9 @@
    "status": "확인",
    "note": null,
    "image_src": "코스트코 공식",
-   "image_url_src": "https://www.costco.co.kr/BeautyHouseholdPersonal-Care/Beauty/Skin-Care/Celimax-BHA-Peeling-Pad-80ct-x-2/p/675037"
+   "image_url_src": "https://www.costco.co.kr/BeautyHouseholdPersonal-Care/Beauty/Skin-Care/Celimax-BHA-Peeling-Pad-80ct-x-2/p/675037",
+   "origin": "국산·국내생산",
+   "origin_ev": "코스트코 공식몰 제조국: 대한민국"
   },
   {
    "code": "692838",
@@ -698,7 +750,9 @@
    "status": "확인",
    "note": null,
    "image_src": "코스트코 공식",
-   "image_url_src": "https://www.costco.co.kr/BeautyHouseholdPersonal-Care/Hair-Care/ShampooConditioner/Unove-Damage-Repair-Hydrating-Treatment-500ml-x-2/p/692838"
+   "image_url_src": "https://www.costco.co.kr/BeautyHouseholdPersonal-Care/Hair-Care/ShampooConditioner/Unove-Damage-Repair-Hydrating-Treatment-500ml-x-2/p/692838",
+   "origin": "국산·국내생산",
+   "origin_ev": "코스트코 공식몰 제조국: 대한민국"
   },
   {
    "code": "686408",
@@ -717,12 +771,14 @@
    "status": "확인",
    "note": null,
    "image_src": "코스트코 공식",
-   "image_url_src": "https://www.costco.co.kr/Gift-Set-Special/Nonfood-Gifts/Kamill-Hand-Cream-Set-133ml-x-2-75ml-30ml/p/686408"
+   "image_url_src": "https://www.costco.co.kr/Gift-Set-Special/Nonfood-Gifts/Kamill-Hand-Cream-Set-133ml-x-2-75ml-30ml/p/686408",
+   "origin": "수입",
+   "origin_ev": "제조국: 독일"
   },
   {
    "code": "672969",
    "name": "TEFAL 테팔 핸디형스팀다리미 DT2022/ DT2026",
-   "category": "기타",
+   "category": "주방·수납·가구",
    "regular_price": 39990,
    "discount": 8000,
    "sale_price": 31990,
@@ -736,7 +792,9 @@
    "status": "확인",
    "note": null,
    "image_src": "코스트코 공식",
-   "image_url_src": "https://www.costco.co.kr/Appliances/Home-Appliances/Garment-CareOther-Home-Appliances/Tefal-Pure-Pop-Handy-Steam-Iron-DT2022-DT2026/p/672969"
+   "image_url_src": "https://www.costco.co.kr/Appliances/Home-Appliances/Garment-CareOther-Home-Appliances/Tefal-Pure-Pop-Handy-Steam-Iron-DT2022-DT2026/p/672969",
+   "origin": "수입",
+   "origin_ev": "제조국 또는 원산지: 중국"
   },
   {
    "code": "680689",
@@ -755,12 +813,14 @@
    "status": "확인",
    "note": null,
    "image_src": "코스트코 공식",
-   "image_url_src": "https://www.costco.co.kr/HomeKitchen/Cleaning-Products/Cleaning-Chemicals/Mrs-Meyers-Multi-Surface-Cleaner-750ml-x-3/p/680689"
+   "image_url_src": "https://www.costco.co.kr/HomeKitchen/Cleaning-Products/Cleaning-Chemicals/Mrs-Meyers-Multi-Surface-Cleaner-750ml-x-3/p/680689",
+   "origin": null,
+   "origin_ev": null
   },
   {
    "code": "696205",
    "name": "APRIL AT HOME 웨지형 등받이쿠션 50X45X21CM",
-   "category": "기타",
+   "category": "주방·수납·가구",
    "regular_price": null,
    "discount": 4000,
    "sale_price": 15990,
@@ -774,12 +834,14 @@
    "status": "미확인",
    "note": "정상가가 가격표에서 잘려 보임(9,990 표기는 판매가보다 낮아 비움, 미확인)",
    "image_src": "코스트코 공식",
-   "image_url_src": "https://www.costco.co.kr/FurnitureBeddingHome/Bedding/CushionAccessories/April-at-Home-Wedge-Deco-Cushion/p/696205"
+   "image_url_src": "https://www.costco.co.kr/FurnitureBeddingHome/Bedding/CushionAccessories/April-at-Home-Wedge-Deco-Cushion/p/696205",
+   "origin": "국산·국내생산",
+   "origin_ev": "코스트코 공식몰 제조국 또는 원산지: 대한민국"
   },
   {
    "code": "689756",
    "name": "IRIS 아이리스 우드탑 5단 서랍장",
-   "category": "기타",
+   "category": "주방·수납·가구",
    "regular_price": 32990,
    "discount": 6600,
    "sale_price": 26390,
@@ -792,7 +854,9 @@
    "image": null,
    "status": "확인",
    "note": null,
-   "image_src": null
+   "image_src": null,
+   "origin": null,
+   "origin_ev": null
   },
   {
    "code": "692846",
@@ -810,7 +874,9 @@
    "image": null,
    "status": "확인",
    "note": null,
-   "image_src": null
+   "image_src": null,
+   "origin": null,
+   "origin_ev": null
   },
   {
    "code": "680088",
@@ -828,12 +894,14 @@
    "image": null,
    "status": "확인",
    "note": null,
-   "image_src": null
+   "image_src": null,
+   "origin": null,
+   "origin_ev": null
   },
   {
    "code": "678774",
    "name": "리치 키즈 칫솔10개 세트",
-   "category": "기타",
+   "category": "생활·세제",
    "regular_price": 11990,
    "discount": 2500,
    "sale_price": 9490,
@@ -847,12 +915,14 @@
    "status": "확인",
    "note": null,
    "image_src": "코스트코 공식",
-   "image_url_src": "https://www.costco.co.kr/BeautyHouseholdPersonal-Care/BathBodyOral-Care/Oral-Care/Reach-Kids-Toothbrush-10ea/p/678774"
+   "image_url_src": "https://www.costco.co.kr/BeautyHouseholdPersonal-Care/BathBodyOral-Care/Oral-Care/Reach-Kids-Toothbrush-10ea/p/678774",
+   "origin": "국산·국내생산",
+   "origin_ev": "코스트코 공식몰 제조국 또는 원산지: 대한민국"
   },
   {
    "code": "696583",
    "name": "REACH 리치 컬러팝스와이드칫솔 10개",
-   "category": "기타",
+   "category": "생활·세제",
    "regular_price": 16990,
    "discount": 3500,
    "sale_price": 13490,
@@ -866,7 +936,9 @@
    "status": "확인",
    "note": null,
    "image_src": "코스트코 공식",
-   "image_url_src": "https://www.costco.co.kr/BeautyHouseholdPersonal-Care/BathBodyOral-Care/Oral-Care/Reach-Color-Pops-Wide-Toothbrush-10ea/p/696583"
+   "image_url_src": "https://www.costco.co.kr/BeautyHouseholdPersonal-Care/BathBodyOral-Care/Oral-Care/Reach-Color-Pops-Wide-Toothbrush-10ea/p/696583",
+   "origin": "수입",
+   "origin_ev": "제조국 또는 원산지: 중국"
   },
   {
    "code": "663477",
@@ -885,12 +957,14 @@
    "status": "확인",
    "note": null,
    "image_src": "코스트코 공식",
-   "image_url_src": "https://www.costco.co.kr/BeautyHouseholdPersonal-Care/Hair-Care/ShampooConditioner/DrGroot-Anti-Hair-Loss-Shampoo-700ml-150ml/p/663477"
+   "image_url_src": "https://www.costco.co.kr/BeautyHouseholdPersonal-Care/Hair-Care/ShampooConditioner/DrGroot-Anti-Hair-Loss-Shampoo-700ml-150ml/p/663477",
+   "origin": "국산·국내생산",
+   "origin_ev": "코스트코 공식몰 제조국: 대한민국"
   },
   {
    "code": "657633",
    "name": "뉴트리원BB LAB 더콜라겐1500 2G X 90포",
-   "category": "기타",
+   "category": "뷰티·건강",
    "regular_price": 29990,
    "discount": null,
    "sale_price": 23990,
@@ -904,12 +978,14 @@
    "status": "미확인",
    "note": "할인액 가려짐(미확인)",
    "image_src": "코스트코 공식",
-   "image_url_src": "https://www.costco.co.kr/HealthSupplement/DietBeauty-Supplement/Collagen/Nutrione-BB-Lab-The-Collagen-1500-2g-x-90ct/p/657633"
+   "image_url_src": "https://www.costco.co.kr/HealthSupplement/DietBeauty-Supplement/Collagen/Nutrione-BB-Lab-The-Collagen-1500-2g-x-90ct/p/657633",
+   "origin": null,
+   "origin_ev": null
   },
   {
    "code": "660237",
    "name": "아모레퍼시픽 굿슬립 가바365 430MG X 70정",
-   "category": "기타",
+   "category": "뷰티·건강",
    "regular_price": 33990,
    "discount": 7000,
    "sale_price": 26990,
@@ -923,7 +999,9 @@
    "status": "확인",
    "note": null,
    "image_src": "코스트코 공식",
-   "image_url_src": "https://www.costco.co.kr/HealthSupplement/Other-Health-Supplement/Other-Health-Supplements/Vital-Beautie-Goodsleep-GABA-365-430mg-x-70ct/p/660237"
+   "image_url_src": "https://www.costco.co.kr/HealthSupplement/Other-Health-Supplement/Other-Health-Supplements/Vital-Beautie-Goodsleep-GABA-365-430mg-x-70ct/p/660237",
+   "origin": null,
+   "origin_ev": null
   },
   {
    "code": "697020",
@@ -942,12 +1020,14 @@
    "status": "확인",
    "note": null,
    "image_src": "코스트코 공식",
-   "image_url_src": "https://www.costco.co.kr/BeautyHouseholdPersonal-Care/BathBodyOral-Care/Oral-Care/46CM-Intensive-Breath-Care-Toothpaste-120g-x-5/p/697020"
+   "image_url_src": "https://www.costco.co.kr/BeautyHouseholdPersonal-Care/BathBodyOral-Care/Oral-Care/46CM-Intensive-Breath-Care-Toothpaste-120g-x-5/p/697020",
+   "origin": "국산·국내생산",
+   "origin_ev": "코스트코 공식몰 제조국 또는 원산지: 대한민국"
   },
   {
    "code": "637477",
    "name": "아우라건조기용 섬유유연 시트 건조기용 200매",
-   "category": "기타",
+   "category": "생활·세제",
    "regular_price": 19990,
    "discount": 4000,
    "sale_price": 15990,
@@ -961,7 +1041,9 @@
    "status": "확인",
    "note": null,
    "image_src": "코스트코 공식",
-   "image_url_src": "https://www.costco.co.kr/HomeKitchen/Cleaning-Products/Laundry-Detergent/Aura-Dry-Fabric-Softener-Sheet-200ctDryer-Only/p/637477"
+   "image_url_src": "https://www.costco.co.kr/HomeKitchen/Cleaning-Products/Laundry-Detergent/Aura-Dry-Fabric-Softener-Sheet-200ctDryer-Only/p/637477",
+   "origin": "국산·국내생산",
+   "origin_ev": "코스트코 공식몰 수입자, 제조국 및 제조사: 대한민국 / LG 생활건강"
   },
   {
    "code": "694287",
@@ -980,7 +1062,9 @@
    "status": "확인",
    "note": null,
    "image_src": "코스트코 공식",
-   "image_url_src": "https://www.costco.co.kr/HomeKitchen/Cleaning-Products/Cleaning-Chemicals/Scrubbing-Bubbles-Fresh-Brush-Set/p/694287"
+   "image_url_src": "https://www.costco.co.kr/HomeKitchen/Cleaning-Products/Cleaning-Chemicals/Scrubbing-Bubbles-Fresh-Brush-Set/p/694287",
+   "origin": "수입",
+   "origin_ev": "수입자, 제조국 및 제조사: 제조국 및 제조사: 태국, 베어링홀딩 (Bearing Holding Co., Ltd)<br>수입자: 에스씨존"
   },
   {
    "code": "649754",
@@ -999,7 +1083,9 @@
    "status": "확인",
    "note": null,
    "image_src": "코스트코 공식",
-   "image_url_src": "https://www.costco.co.kr/HomeKitchen/Cleaning-Products/Cleaning-Chemicals/Scotch-Brite-Baking-Soda-Scouring-Pad-40ct/p/649754"
+   "image_url_src": "https://www.costco.co.kr/HomeKitchen/Cleaning-Products/Cleaning-Chemicals/Scotch-Brite-Baking-Soda-Scouring-Pad-40ct/p/649754",
+   "origin": "국산·국내생산",
+   "origin_ev": "코스트코 공식몰 수입자, 제조국 및 제조사: 제조국 : 대한민국 / 제조사 : 한국쓰리엠㈜"
   },
   {
    "code": "663760",
@@ -1018,7 +1104,9 @@
    "status": "확인",
    "note": null,
    "image_src": "코스트코 공식",
-   "image_url_src": "https://www.costco.co.kr/Appliances/Beauty-ToolsHealth-Care/RazorsHair-Removals/Schick-Intuition-Razor-Set-1-Handle-9-Blades/p/663760"
+   "image_url_src": "https://www.costco.co.kr/Appliances/Beauty-ToolsHealth-Care/RazorsHair-Removals/Schick-Intuition-Razor-Set-1-Handle-9-Blades/p/663760",
+   "origin": "수입",
+   "origin_ev": "제조국 또는 원산지: 제모날: 독일 / 조립 및 포장: 중국"
   },
   {
    "code": "701306",
@@ -1037,12 +1125,14 @@
    "status": "확인",
    "note": null,
    "image_src": "코스트코 공식",
-   "image_url_src": "https://www.costco.co.kr/BeautyHouseholdPersonal-Care/BathFacial-Tissue/BathFacial-Tissue/Kleenex-Supreme-Plus-Bath-Tissue-40m-x-30roll/p/701306"
+   "image_url_src": "https://www.costco.co.kr/BeautyHouseholdPersonal-Care/BathFacial-Tissue/BathFacial-Tissue/Kleenex-Supreme-Plus-Bath-Tissue-40m-x-30roll/p/701306",
+   "origin": "국산·국내생산",
+   "origin_ev": "코스트코 공식몰 제조국 또는 원산지: 대한민국"
   },
   {
    "code": "680236",
    "name": "ORGANIST 오가니스트 키즈 삼푸앤바디워시 715ML X 2",
-   "category": "기타",
+   "category": "생활·세제",
    "regular_price": 18990,
    "discount": 5000,
    "sale_price": 13990,
@@ -1056,12 +1146,14 @@
    "status": "미확인",
    "note": "상품번호 첫 글자 일부 가려짐(680236으로 읽음)",
    "image_src": "코스트코 공식",
-   "image_url_src": "https://www.costco.co.kr/BeautyHouseholdPersonal-Care/Baby-BodyOral-Care/Organist-Kids-Shampoo-Body-Wash-715ml-x-2/p/680236"
+   "image_url_src": "https://www.costco.co.kr/BeautyHouseholdPersonal-Care/Baby-BodyOral-Care/Organist-Kids-Shampoo-Body-Wash-715ml-x-2/p/680236",
+   "origin": "국산·국내생산",
+   "origin_ev": "코스트코 공식몰 제조국: 대한민국"
   },
   {
    "code": "696523",
    "name": "연세 에듀샷 20.65G X 20병",
-   "category": "기타",
+   "category": "뷰티·건강",
    "regular_price": 24990,
    "discount": 5000,
    "sale_price": 19990,
@@ -1075,7 +1167,9 @@
    "status": "확인",
    "note": null,
    "image_src": "코스트코 공식",
-   "image_url_src": "https://www.costco.co.kr/HealthSupplement/Other-Health-Supplement/Other-Health-Supplements/Yonsei-Edushot-2065g-x-20ct/p/696523"
+   "image_url_src": "https://www.costco.co.kr/HealthSupplement/Other-Health-Supplement/Other-Health-Supplements/Yonsei-Edushot-2065g-x-20ct/p/696523",
+   "origin": null,
+   "origin_ev": null
   },
   {
    "code": "649272",
@@ -1094,12 +1188,14 @@
    "status": "미확인",
    "note": "상품명 일부 번짐",
    "image_src": "코스트코 공식",
-   "image_url_src": "https://www.costco.co.kr/HomeKitchen/Cleaning-Products/Laundry-Detergent/Downy-AF-Fabric-Softener-503L/p/649272"
+   "image_url_src": "https://www.costco.co.kr/HomeKitchen/Cleaning-Products/Laundry-Detergent/Downy-AF-Fabric-Softener-503L/p/649272",
+   "origin": "수입",
+   "origin_ev": "수입자, 제조국 및 제조사: 수입자: (주)코스트코 코리아 / 제조국: 미국 / 제조사: 프록터 앤드 갬블(P&G)"
   },
   {
    "code": "598907",
    "name": "한미헤파케어 밀크씨슬 & 홍경천 1000MG X 180캡슐",
-   "category": "기타",
+   "category": "뷰티·건강",
    "regular_price": 25990,
    "discount": 5300,
    "sale_price": 20690,
@@ -1113,12 +1209,14 @@
    "status": "확인",
    "note": null,
    "image_src": "코스트코 공식",
-   "image_url_src": "https://www.costco.co.kr/HealthSupplement/Other-Health-Supplement/Milkthistle/Hanmi-Hepacare-Milk-Thistle-Rhodiola-1000mgx180/p/598907"
+   "image_url_src": "https://www.costco.co.kr/HealthSupplement/Other-Health-Supplement/Milkthistle/Hanmi-Hepacare-Milk-Thistle-Rhodiola-1000mgx180/p/598907",
+   "origin": null,
+   "origin_ev": null
   },
   {
    "code": "637186",
    "name": "홈스타 욕실청소용 클리너 750ML X 4PK",
-   "category": "기타",
+   "category": "생활·세제",
    "regular_price": 13790,
    "discount": 2800,
    "sale_price": 10990,
@@ -1132,7 +1230,9 @@
    "status": "확인",
    "note": null,
    "image_src": "코스트코 공식",
-   "image_url_src": "https://www.costco.co.kr/HomeKitchen/Cleaning-Products/Cleaning-Chemicals/Homestar-Bathroom-Cleaner-750ml-x-4/p/637186"
+   "image_url_src": "https://www.costco.co.kr/HomeKitchen/Cleaning-Products/Cleaning-Chemicals/Homestar-Bathroom-Cleaner-750ml-x-4/p/637186",
+   "origin": "국산·국내생산",
+   "origin_ev": "코스트코 공식몰 수입자, 제조국 및 제조사: 제조국: 대한민국 / 제조사: 엘지생활건강"
   },
   {
    "code": "695133",
@@ -1151,12 +1251,14 @@
    "status": "확인",
    "note": null,
    "image_src": "코스트코 공식",
-   "image_url_src": "https://www.costco.co.kr/Appliances/Seasonal-Appliances/DehumidifiersAir-WashersHumidifiers/CAREPOD-Stand-LED-Humidifier-4L/p/695133"
+   "image_url_src": "https://www.costco.co.kr/Appliances/Seasonal-Appliances/DehumidifiersAir-WashersHumidifiers/CAREPOD-Stand-LED-Humidifier-4L/p/695133",
+   "origin": "수입",
+   "origin_ev": "제조국 또는 원산지: 중국"
   },
   {
    "code": "684686",
    "name": "PHILIPS 필립스 6000 시리즈 면도기 S6830/68",
-   "category": "기타",
+   "category": "뷰티·건강",
    "regular_price": 197900,
    "discount": 40000,
    "sale_price": 157900,
@@ -1170,7 +1272,9 @@
    "status": "확인",
    "note": null,
    "image_src": "코스트코 공식",
-   "image_url_src": "https://www.costco.co.kr/Appliances/Beauty-ToolsHealth-Care/RazorsHair-Removals/Philips-SkinIQ-6000-Series-Electric-Shaver/p/684686"
+   "image_url_src": "https://www.costco.co.kr/Appliances/Beauty-ToolsHealth-Care/RazorsHair-Removals/Philips-SkinIQ-6000-Series-Electric-Shaver/p/684686",
+   "origin": "수입",
+   "origin_ev": "제조국 또는 원산지: 중국"
   },
   {
    "code": "687235",
@@ -1189,7 +1293,9 @@
    "status": "확인",
    "note": null,
    "image_src": "코스트코 공식",
-   "image_url_src": "https://www.costco.co.kr/HomeKitchen/Cleaning-Products/Laundry-Detergent/FIJI-Detergent-Sheets-120/p/687235"
+   "image_url_src": "https://www.costco.co.kr/HomeKitchen/Cleaning-Products/Laundry-Detergent/FIJI-Detergent-Sheets-120/p/687235",
+   "origin": "국산·국내생산",
+   "origin_ev": "코스트코 공식몰 수입자, 제조국 및 제조사: 대한민국 / ㈜엘지생활건강"
   },
   {
    "code": "665634",
@@ -1208,7 +1314,9 @@
    "status": "확인",
    "note": null,
    "image_src": "코스트코 공식",
-   "image_url_src": "https://www.costco.co.kr/HomeKitchen/Cleaning-Products/Laundry-Detergent/FiJi-Dnazyme-Deep-Clean-Max-47L/p/665634"
+   "image_url_src": "https://www.costco.co.kr/HomeKitchen/Cleaning-Products/Laundry-Detergent/FiJi-Dnazyme-Deep-Clean-Max-47L/p/665634",
+   "origin": "국산·국내생산",
+   "origin_ev": "코스트코 공식몰 수입자, 제조국 및 제조사: 제조국 : 대한민국 / 제조사 : (주)엘지생활건강"
   },
   {
    "code": "671922",
@@ -1227,12 +1335,14 @@
    "status": "확인",
    "note": null,
    "image_src": "코스트코 공식",
-   "image_url_src": "https://www.costco.co.kr/HomeKitchen/Cleaning-Products/Dish-Detergent/Frosch-Dishwasher-Tablets-18g-x-72/p/671922"
+   "image_url_src": "https://www.costco.co.kr/HomeKitchen/Cleaning-Products/Dish-Detergent/Frosch-Dishwasher-Tablets-18g-x-72/p/671922",
+   "origin": "수입",
+   "origin_ev": "제조국 또는 원산지: 덴마크"
   },
   {
    "code": "500073",
    "name": "ZIPLOC 버라이어티 냉장백 소형200, 미니100",
-   "category": "기타",
+   "category": "주방·수납·가구",
    "regular_price": 12990,
    "discount": 3000,
    "sale_price": 9990,
@@ -1246,12 +1356,14 @@
    "status": "확인",
    "note": null,
    "image_src": "코스트코 공식",
-   "image_url_src": "https://www.costco.co.kr/HomeKitchen/Kitchen-Accessories/Plastic-Wraps/Ziploc-Variety-Storage-S-200-Mini-100-Min-2/p/500073"
+   "image_url_src": "https://www.costco.co.kr/HomeKitchen/Kitchen-Accessories/Plastic-Wraps/Ziploc-Variety-Storage-S-200-Mini-100-Min-2/p/500073",
+   "origin": "수입",
+   "origin_ev": "제조국 또는 원산지: 태국"
   },
   {
    "code": "726706",
    "name": "이지엔 슬라이더스탠딩지퍼백 145매",
-   "category": "기타",
+   "category": "주방·수납·가구",
    "regular_price": 19990,
    "discount": 4000,
    "sale_price": 15990,
@@ -1265,7 +1377,9 @@
    "status": "확인",
    "note": null,
    "image_src": "코스트코 공식",
-   "image_url_src": "https://www.costco.co.kr/HomeKitchen/Kitchen-Accessories/Plastic-Wraps/EZn-Slider-Standing-Bags-145ct/p/726706"
+   "image_url_src": "https://www.costco.co.kr/HomeKitchen/Kitchen-Accessories/Plastic-Wraps/EZn-Slider-Standing-Bags-145ct/p/726706",
+   "origin": "국산·국내생산",
+   "origin_ev": "코스트코 공식몰 제조국 또는 원산지: 대한민국"
   },
   {
    "code": "698029",
@@ -1283,7 +1397,9 @@
    "image": null,
    "status": "확인",
    "note": null,
-   "image_src": null
+   "image_src": null,
+   "origin": null,
+   "origin_ev": null
   },
   {
    "code": "",
@@ -1300,7 +1416,9 @@
    "video_time": "8:32",
    "image": null,
    "status": "미확인",
-   "note": "상품번호 첫 두 자리 일부 가려짐(742482로 추정), 사진 매칭 안 함"
+   "note": "상품번호 첫 두 자리 일부 가려짐(742482로 추정), 사진 매칭 안 함",
+   "origin": null,
+   "origin_ev": null
   },
   {
    "code": "627620",
@@ -1319,7 +1437,9 @@
    "status": "미확인",
    "note": "정상가 일부 번짐(11,490으로 읽음)",
    "image_src": "코스트코 공식",
-   "image_url_src": "https://www.costco.co.kr/HardwareAutomotive/Automotive/Auto-Accessories/Bullsone-3-in-1-Windshield-Fluid-18L-3-count/p/627620"
+   "image_url_src": "https://www.costco.co.kr/HardwareAutomotive/Automotive/Auto-Accessories/Bullsone-3-in-1-Windshield-Fluid-18L-3-count/p/627620",
+   "origin": "국산·국내생산",
+   "origin_ev": "코스트코 공식몰 수입자, 제조국 및 제조사: 제조국: 대한민국 / 제조사: 불스원 (주)"
   }
  ]
 }
