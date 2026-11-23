@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22 08:57 KST",
+ "updated": "2026-11-23 09:31 KST",
  "count": 53,
  "dropped_expired": 1,
  "period": [
@@ -18,7 +18,7 @@
   {
    "code": "638989",
    "name": "1924 버번 배럴 까베르네 쇼비뇽 750ML",
-   "category": "기타",
+   "category": "음료·커피",
    "regular_price": 24990,
    "discount": 5000,
    "sale_price": 19990,
@@ -38,7 +38,7 @@
   {
    "code": "668884",
    "name": "꼬막 비빔밥 (원산지:국산)",
-   "category": "기타",
+   "category": "가공·간편식",
    "regular_price": 17990,
    "discount": 3000,
    "sale_price": 14990,
@@ -99,7 +99,7 @@
   {
    "code": "696591",
    "name": "QUAKER 멀티그레인오트밀 30G X 18",
-   "category": "기타",
+   "category": "가공·간편식",
    "regular_price": 8990,
    "discount": 1800,
    "sale_price": 7190,
@@ -161,7 +161,7 @@
   {
    "code": "695333",
    "name": "ROBOROCK 로보락 무선 진공 물걸레 청소기 F25RT GEN2",
-   "category": "기타",
+   "category": "가전·침구",
    "regular_price": 394990,
    "discount": 80000,
    "sale_price": 314990,
@@ -202,7 +202,7 @@
   {
    "code": "693818",
    "name": "뉴트리원 BB LAB 파인애플효소 3G X 90포",
-   "category": "기타",
+   "category": "뷰티·건강",
    "regular_price": 29990,
    "discount": 6000,
    "sale_price": 23990,
@@ -244,7 +244,7 @@
   {
    "code": "698801",
    "name": "남양 떠먹는 불가리스 80GX16 딸기/복숭아",
-   "category": "기타",
+   "category": "가공·간편식",
    "regular_price": 7990,
    "discount": 1500,
    "sale_price": 6490,
@@ -285,7 +285,7 @@
   {
    "code": "696083",
    "name": "AGK 스윙오토슬라이서 (슬라이스,크링클,굵은채칼,얇은채칼)",
-   "category": "기타",
+   "category": "주방·수납·가구",
    "regular_price": 69990,
    "discount": 14000,
    "sale_price": 55990,
@@ -327,7 +327,7 @@
   {
    "code": "674122",
    "name": "STARBUCKS 다크 아메리카노 1.1G X 170CT",
-   "category": "기타",
+   "category": "음료·커피",
    "regular_price": 45990,
    "discount": 9200,
    "sale_price": 36790,
@@ -431,7 +431,7 @@
   {
    "code": "621584",
    "name": "매일 바이오 드링킹 블루베리 250ML X 10",
-   "category": "기타",
+   "category": "음료·커피",
    "regular_price": 9990,
    "discount": 2000,
    "sale_price": 7990,
@@ -451,7 +451,7 @@
   {
    "code": "671345",
    "name": "브람스 겟백숄더 마사지기 BM-5858",
-   "category": "기타",
+   "category": "가전·침구",
    "regular_price": 248900,
    "discount": 55000,
    "sale_price": 193900,
@@ -471,7 +471,7 @@
   {
    "code": "667512",
    "name": "오뚜기 우리밀부침가루 1.8KG",
-   "category": "기타",
+   "category": "가공·간편식",
    "regular_price": 9990,
    "discount": 2000,
    "sale_price": 7990,
@@ -553,7 +553,7 @@
   {
    "code": "693929",
    "name": "MANNADA 크런치 캐슈볼 500G",
-   "category": "기타",
+   "category": "가공·간편식",
    "regular_price": 14990,
    "discount": 2500,
    "sale_price": 12490,
@@ -594,7 +594,7 @@
   {
    "code": "696768",
    "name": "청정원 소불고기양념 820G X 2",
-   "category": "기타",
+   "category": "가공·간편식",
    "regular_price": 8490,
    "discount": 1700,
    "sale_price": 6790,
@@ -636,7 +636,7 @@
   {
    "code": "523514",
    "name": "임페리얼 그랑 리저바 리오하 750ML",
-   "category": "기타",
+   "category": "음료·커피",
    "regular_price": 119900,
    "discount": 20000,
    "sale_price": 99900,
@@ -677,7 +677,7 @@
   {
    "code": "595043",
    "name": "바슈롬 오큐비전50 PLUS 750MG X 60캡슐",
-   "category": "기타",
+   "category": "뷰티·건강",
    "regular_price": 31490,
    "discount": 6500,
    "sale_price": 24990,
@@ -739,7 +739,7 @@
   {
    "code": "692013",
    "name": "KHOMBU 여성 털 부츠 230 - 250MM SIZE",
-   "category": "기타",
+   "category": "의류·잡화",
    "regular_price": 37990,
    "discount": 8000,
    "sale_price": 29990,
@@ -760,7 +760,7 @@
   {
    "code": "567100",
    "name": "OTTAVIO 포도씨유 1L X 4",
-   "category": "기타",
+   "category": "가공·간편식",
    "regular_price": 27990,
    "discount": 6000,
    "sale_price": 21990,
@@ -781,7 +781,7 @@
   {
    "code": "655475",
    "name": "하림자연실록 스파이시닭가슴살 1.2KG",
-   "category": "기타",
+   "category": "정육·수산·신선",
    "regular_price": 14990,
    "discount": 2500,
    "sale_price": 12490,
@@ -801,7 +801,7 @@
   {
    "code": "609240",
    "name": "프릭쇼 까베르네 쇼비뇽 750ML",
-   "category": "기타",
+   "category": "음료·커피",
    "regular_price": 25990,
    "discount": 4000,
    "sale_price": 21990,
@@ -841,7 +841,7 @@
   {
    "code": "680239",
    "name": "크라스탄 유기농보리차 200G",
-   "category": "기타",
+   "category": "음료·커피",
    "regular_price": 13990,
    "discount": 3000,
    "sale_price": 10990,
@@ -862,7 +862,7 @@
   {
    "code": "691998",
    "name": "CUCKOO 쿠쿠 IH 전기 압력밥솥 10인용",
-   "category": "기타",
+   "category": "가전·침구",
    "regular_price": 329900,
    "discount": 65000,
    "sale_price": 264900,
@@ -904,7 +904,7 @@
   {
    "code": "695082",
    "name": "ROLL KITCHEN 롤키친 야채 탈수기 스텐 바스켓,뚜껑",
-   "category": "기타",
+   "category": "주방·수납·가구",
    "regular_price": 21990,
    "discount": 4500,
    "sale_price": 17490,
@@ -967,7 +967,7 @@
   {
    "code": "667413",
    "name": "NZ ORIGIN 아쿠아셀RTG오메가3 90 캡슐",
-   "category": "기타",
+   "category": "뷰티·건강",
    "regular_price": 29990,
    "discount": 6000,
    "sale_price": 23990,
@@ -1009,7 +1009,7 @@
   {
    "code": "652406",
    "name": "GENERAL MILLS 시나몬토스트크런치 702G X 2",
-   "category": "기타",
+   "category": "가공·간편식",
    "regular_price": 12790,
    "discount": 2800,
    "sale_price": 9990,
@@ -1071,7 +1071,7 @@
   {
    "code": "684055",
    "name": "페브리즈 공기탈취제 165G X 4개",
-   "category": "기타",
+   "category": "생활·세제",
    "regular_price": 14990,
    "discount": 3000,
    "sale_price": 11990,
@@ -1091,7 +1091,7 @@
   {
    "code": "693771",
    "name": "대구농산 파로 2.4KG",
-   "category": "기타",
+   "category": "가공·간편식",
    "regular_price": 14990,
    "discount": 4000,
    "sale_price": 10990,
