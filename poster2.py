@@ -7,7 +7,7 @@ for k in range(32):
 star="polygon("+",".join(pts)+")"
 REP=[];secs="";inc=0;tot=0
 for c,col,n in cats:
-  its=[i for i in d['items'] if i['category']==c];tot+=len(its)
+  its=[i for i in d['items'] if i['category']==c and i['discount']];tot+=len(its)
   its=sorted(its,key=lambda i:-(i['discount'] or 0))[:n];inc+=len(its)
   cells=""
   for i in its:
